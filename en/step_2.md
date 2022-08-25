@@ -116,28 +116,5 @@ Use praise consistently and fairly ie. avoid favouritism. Involve and motivate y
 Talk with the parent or guardian if particularly disruptive behaviour occurs during a session. The child may be frustrated with a project, reacting to an external stressor, or have additional needs that are not being supported.
 --- /task ---
 
-</div>
-<div>
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
-</div>
-</div>
-
---- task ---
-
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
-
-[[[working-offline]]]
-
---- /task ---
-
---- task ---
-
-Step content... 
-Can use:
-**Test:**
-**Choose:**
-**Tip:**
-
---- /task ---
 
 --- save ---
