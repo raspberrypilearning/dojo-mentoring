@@ -7,6 +7,7 @@
   
 With the support of mentors Ninjas develop a wide-range of skills in a Dojo. They learn
   
+  
 --- task ---
   
 Confidence with technology
