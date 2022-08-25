@@ -5,7 +5,6 @@
 
 At a Dojo you will see a mix of different styles of mentoring depending on the situation. Being comfortable as a mentor and striking a balance of mentoring styles is importance.
 
-  
 
 --- collapse ---
 
