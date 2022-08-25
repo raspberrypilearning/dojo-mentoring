@@ -35,9 +35,7 @@ title: Supporting self-help
 We use the motto “Ask 3 then me!” to encourage Ninjas to try a range of self-help strategies if they get stuck before going to a mentor. They are told to 
 + Ask yourself (test your code and try to find the error)
 + Ask a search engine
-+ Ask your peers
-
-And only then ask a mentor.
++ Ask your peers and only then ask a mentor.
 --- /collapse ---
   
   
