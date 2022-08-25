@@ -67,13 +67,21 @@ Think about the styles above. Note down which styles you think you are likely to
 
 --- task ---
 
-Noting the mentoring styles suggested above, write down some of the personal attributes you think would be useful as a mentor. Beside each note if you have this attribute yourself.
+Noting the mentoring styles suggested above, write down some of the characteristics you think would be useful as a mentor. Beside each note if you have this attribute yourself.
   
 --- collapse ---
 
 ---
-title: Example personal attributes
+title: Example mentor characteristics
 ---
++ Patient
++ Enthusiastic
++ Passionate about learning
++ Treat people with respect as individuals
++ Can work in teams
++ Technically proficient
++ Organised
++ Like helping others
 
 --- /collapse ---
 --- /task ---
