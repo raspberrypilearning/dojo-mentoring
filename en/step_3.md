@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add an introductory sentence. What will learners achieve by the end of this step?
+At a Dojo you will see a mix of different styles of mentoring depending on the situation. Being comfortable as a mentor and striking a balance of mentoring styles is importance.
 
   
 
@@ -62,26 +62,31 @@ Leading from the front can be useful to teach concepts and logic or to introduce
   
 --- task ---
 
-Think about the styles above. Note down which styles you think you are likely to use as a mentor. What style would you find more challenging?
+Think about the styles above. Note down which styles you think you are likely to use as a mentor. 
+What style would you be most comfortable with? 
+Which would you find more challenging?
 --- /task ---
 
 --- task ---
 
-Noting the mentoring styles suggested above, write down some of the characteristics you think would be useful as a mentor. Beside each note if you have this attribute yourself.
+Noting the mentoring styles suggested above, write down some of the characteristics you think would be useful as a mentor. Beside each note if you have this attribute yourself. 
   
 --- collapse ---
 
 ---
-title: Example mentor characteristics
+title: Example mentor characteristics:
 ---
 + Patient
 + Enthusiastic
 + Passionate about learning
 + Treat people with respect as individuals
 + Can work in teams
++ Adaptable
 + Technically proficient
 + Organised
 + Like helping others
++ Experienced with technology
++ Experienced with young people
 
 --- /collapse ---
 --- /task ---
