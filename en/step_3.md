@@ -9,6 +9,7 @@ At a Dojo you will see a mix of different styles of mentoring depending on the s
 title: Encouragement
 ---
 Using encouragement and a positive attitude to get children to take pride in learning something they initially found difficult. This positive encouragement approach helps guide young people to new ideas and fresh approaches.
+
 --- /collapse ---
   
 --- collapse ---
@@ -23,6 +24,7 @@ For example:
 + What’s happening in this piece of code?
 
 --- /collapse ---
+
   
 --- collapse ---
 
@@ -58,8 +60,8 @@ Leading from the front can be useful to teach concepts and logic or to introduce
 --- task ---
 
 **Think** about the styles above. Note down which styles you think you are likely to use as a mentor. 
-What style would you be most comfortable with? 
-Which would you find more challenging?
+What style would you be most comfortable with? Which would you find more challenging?
+
 --- /task ---
 
 --- task ---
@@ -84,6 +86,7 @@ title: Example mentor characteristics:
 + Experienced with young people
 
 --- /collapse ---
+
 --- /task ---
 
 --- save ---
