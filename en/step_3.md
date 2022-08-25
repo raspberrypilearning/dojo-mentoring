@@ -2,6 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+
 At a Dojo you will see a mix of different styles of mentoring depending on the situation. Being comfortable as a mentor and striking a balance of mentoring styles is importance.
 
   
@@ -22,8 +23,7 @@ title: Questioning
 A mentor who has an understanding of the subject can ask thought out leading questions to stimulate the thinking of a Ninja. These questions can lead them to consider new or alternative techniques for solving a problem, as well as verifying their understanding of material
   
 For example:
-+ It looks like you’re doing the same thing a few times here. 
-+ Is there some way of saving yourself writing it out again? 
++ It looks like you’re doing the same thing a few times here, is there some way of saving yourself writing it out again? *Suggesting the use of loops*
 + What’s happening in this piece of code?
 
 --- /collapse ---
@@ -37,6 +37,7 @@ We use the motto “Ask 3 then me!” to encourage Ninjas to try a range of self
 + Ask yourself (test your code and try to find the error)
 + Ask a search engine
 + Ask your peers
+
 And only then ask a mentor.
 --- /collapse ---
   
