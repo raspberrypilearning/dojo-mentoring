@@ -2,22 +2,31 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+  
 ### What young people learn in a Dojo
+  
 With the support of mentors Ninjas develop a wide-range of skills in a Dojo. They learn
+  
 --- task ---
+  
 Confidence with technology
 Young people develop an understanding of technology, in how it works and how they can use it to create games, apps, and websites. This in turn grows their confidence in using it.
+  
 --- /task ---
   
 --- task ---
+  
 Real world applications
 Our project focused approach not only helps them develop their skills and knowledge, but also helps them recognise how these skills are applied in the real world.
+  
 --- /task ---
   
 
 --- task ---
+  
 Creativity
 Creativity allows for young people's self-fulfilment, personal development and self-expression. Using technology to express themselves creatively offers a novel and relevant way to their experiences.
+  
 --- /task ---
 
 Communication and teamwork
