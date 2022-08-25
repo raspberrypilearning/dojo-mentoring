@@ -1,8 +1,5 @@
 ## Different mentoring styles 
-
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-  
-
+ 
 At a Dojo you will see a mix of different styles of mentoring depending on the situation. Being comfortable as a mentor and striking a balance of mentoring styles is importance.
 
 
