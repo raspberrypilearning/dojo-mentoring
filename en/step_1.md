@@ -14,7 +14,7 @@ Once completed you should:
 
 ### A Dojo in action
 
-Dojos run in a variety of different spaces and contexts. No two Dojos or even two sessions will look the same. Dojo’s are collaborative spaces, where chatter between the Ninjas is encouraged. While other clubs find a bit of structure useful for planning their events. 
+Dojos run in a variety of different spaces and contexts. No two Dojos or even two sessions will look the same. Dojo’s are collaborative spaces, where chatter between the Ninjas is encouraged. Some clubs find a bit of structure useful for planning their events. 
 
 Feel free to change it up, and alternate the types of sessions you run based on your volunteers experiences and participants interests.
 
@@ -91,3 +91,7 @@ Ensures a Dojo operates in accordance with the [Raspberry Pi Foundations safegua
 
 
 --- /collapse ---
+
+--- task ---
+Review the roles within a Dojo. Which role do you think you are best suited to?
+--- /task ---
