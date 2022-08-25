@@ -1,6 +1,6 @@
-## Different mentoring styles 
+## Mentoring styles 
  
-At a Dojo you will see a mix of different styles of mentoring depending on the situation. Being comfortable as a mentor and striking a balance of mentoring styles is importance.
+At a Dojo you will see a mix of different styles of mentoring depending on the situation. Being comfortable as a mentor and being able to use mentoring styles is importance.
 
 
 --- collapse ---
@@ -13,7 +13,6 @@ Using encouragement and a positive attitude to get children to take pride in lea
 --- /collapse ---
   
 --- collapse ---
-
 ---
 title: Questioning
 ---
@@ -27,7 +26,6 @@ For example:
 
   
 --- collapse ---
-
 ---
 title: Supporting self-help
 ---
@@ -39,7 +37,6 @@ We use the motto “Ask 3 then me!” to encourage Ninjas to try a range of self
   
   
 --- collapse ---
-
 ---
 title: Hands on
 ---
@@ -48,7 +45,6 @@ A ‘Hands-on’ style is when Mentors recognise that a Ninja is stuck on a prob
   
   
 --- collapse ---
-
 ---
 title: Lead from the front
 ---
@@ -69,7 +65,6 @@ What style would you be most comfortable with? Which would you find more challen
 Noting the mentoring styles suggested above, **write down** some of the characteristics you think would be useful as a mentor. Beside each note if you have this attribute yourself. 
   
 --- collapse ---
-
 ---
 title: Example mentor characteristics:
 ---
