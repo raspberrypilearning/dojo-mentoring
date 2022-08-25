@@ -87,7 +87,7 @@ Often young people are encouraged to talk about what they have made at the end o
 ---
 title: Coding concepts and programming skills
 ---
-Even in beginner languages like Scratch, Ninjas will learn about coding concepts such as “sequences” where code instructions must run in the order presented and iteration (loops), where a series of instructions are repeated, such as with the “repeat until” block”.
+Even in beginner languages like Scratch, Ninjas will learn about coding concepts such as “sequences” where code instructions must run in the order presented and iteration (loops), where a series of instructions are repeated, such as with the “repeat until” block in [Scratch](https://scratch.mit.edu/).
 --- /collapse ---
   
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
@@ -109,8 +109,12 @@ Use praise consistently and fairly ie. avoid favouritism. Involve and motivate y
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0"> Parents or guardians of those under 12 should be present at the Dojo. Talk with the parent or guardian if particularly disruptive behaviour occurs during a session. The child may be frustrated with a project, reacting to an external stressor, or have additional needs that are not being supported.
+<span style="color: #0faeb0"> Parents or guardians of those under 12 should be present at the Dojo. 
 </p>
+
+--- task ---
+Talk with the parent or guardian if particularly disruptive behaviour occurs during a session. The child may be frustrated with a project, reacting to an external stressor, or have additional needs that are not being supported.
+--- /task ---
 
 </div>
 <div>
