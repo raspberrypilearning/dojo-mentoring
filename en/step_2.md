@@ -6,27 +6,34 @@
 With the support of mentors Ninjas develop a wide-range of skills in a Dojo. Young people learn:
   
   
---- task ---
-  
-**Confidence with technology**
+--- collapse ---
+
+---
+title: Confidence with technology
+---
+
 Young people develop an understanding of technology, in how it works and how they can use it to create games, apps, and websites. This in turn grows their confidence in using it.
   
---- /task ---
+--- /collapse ---
   
---- task ---
-  
-Real world applications
+--- collapse ---
+---
+title: Real world applications
+---  
+
 Our project focused approach not only helps them develop their skills and knowledge, but also helps them recognise how these skills are applied in the real world.
   
---- /task ---
+--- /collapse ---
   
 
---- task ---
+--- collapse ---
   
-Creativity
+---
+title: Creativity
+---  
 Creativity allows for young people's self-fulfilment, personal development and self-expression. Using technology to express themselves creatively offers a novel and relevant way to their experiences.
   
---- /task ---
+--- /collapse ---
 
 --- collapse ---
 
