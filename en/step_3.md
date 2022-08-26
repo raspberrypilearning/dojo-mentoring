@@ -64,8 +64,7 @@ Leading from the front can be useful to teach concepts and logic or to introduce
   
 --- task ---
 
-**Think** about the styles above. Note down which styles you think you are likely to use as a mentor. 
-What style would you be most comfortable with? Which would you find more challenging?
+**Think** about the styles above. Note down which styles you think you are likely to use as a mentor. What style would you be most comfortable performing? Which would you find more challenging?
 
 --- /task ---
 
