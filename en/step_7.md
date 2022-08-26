@@ -8,7 +8,7 @@ The most commonly used programming languages used in Dojos are Scratch, HTML and
 Scratch is particularly great for beginners and younger children as they can see the impact of their code quickly, without worrying about typing or remembering names and syntax. It is free, available online, offline, and in more than 70 languages.
 
 **What can you make with it?**
-Young people can create digital stories, games, and animations in Scratch. You can see some examples of projects made by young people involved in CoderDojo using Scratch below.
+Young people can create digital stories, games, and animations in Scratch. 
 
 --- task ---
 
