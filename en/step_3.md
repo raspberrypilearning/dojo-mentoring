@@ -27,3 +27,28 @@ For example:
 + What’s happening in this piece of code?
 
 --- /collapse ---
+
+  
+--- collapse ---
+  
+---
+title: Supporting self-help
+---
+We use the motto “Ask 3 then me!” to encourage Ninjas to try a range of self-help strategies if they get stuck before going to a mentor. They are told to 
++ Ask yourself (test your code and try to find the error)
++ Ask a search engine
++ Ask your peers and only then ask a mentor.
+  
+--- /collapse ---
+  
+  
+--- collapse ---
+  
+---
+title: Hands on
+---
+A ‘Hands-on’ style is when Mentors recognise that a Ninja is stuck on a problem and may need more direct guidance. Often this approach is useful for younger Ninjas who cannot find the answer elsewhere, or struggle with typing accurately.
+  
+--- /collapse ---
+  
+ 
