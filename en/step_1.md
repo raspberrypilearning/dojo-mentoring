@@ -95,12 +95,15 @@ Ensures a Dojo operates in accordance with the [Raspberry Pi Foundations safegua
 --- /collapse ---
 
 --- task ---
+
 **Review** the roles within a Dojo. Which role do you think you are best suited to?
+
 --- /task ---
 
 --- task ---
 
 **Watch the video** and write down why you want to volunteer at a Dojo.
+
 --- collapse ---
 
 ---
@@ -111,7 +114,6 @@ title: Why volunteer at a Dojo?
 
 
 --- /collapse ---
-
 
 
 --- /task ---
