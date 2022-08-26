@@ -18,7 +18,7 @@ This training will primarily focus on supporting guidance mentors and technical 
 
 Dojos run in a variety of different spaces and contexts. No two Dojos or even two sessions will look the same. Dojo’s are collaborative spaces, where chatter between the Ninjas is encouraged. Some clubs find a bit of structure useful for planning their events. 
 
-Feel free to change it up, and alternate the types of sessions you run based on your volunteers experiences and participants interests.
+Feel free to change it up, and alternate the types of sessions you run based on volunteers experiences and participants interests.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/iIMnQwEQeYs" title="A Dojo in action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
