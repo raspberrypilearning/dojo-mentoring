@@ -11,15 +11,14 @@ Scratch is particularly great for beginners and younger children as they can see
 Young people can create digital stories, games, and animations in Scratch. You can see some examples of projects made by young people involved in CoderDojo using Scratch below.
 
 --- task ---
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">  
-Click on each sprite to see what they do. 
 
-</div>
+Click on the t-shirts to put them in your bag, and the **seller** character (sprite) to buy items:
+
+**Cool Shirts**: [See inside](https://scratch.mit.edu/projects/528697069/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/528697069/?autostart=false" frameborder="0"></iframe>
 </div>
-</div>
+
 --- /task ---
   
 --- task ---
