@@ -16,7 +16,7 @@ Encourage the Ninjas to listen and clap after another Ninja has shared a project
 --- /task ---
 
 ## Reflecting on learnings
-Encouraging learners to revisit the important learnings from the project solidifies new knowledge and provides opportunities for mastery. We provide opportunities for this in our new project paths.
+Encouraging learners to revisit the important learnings from the project solidifies new knowledge and provides opportunities for mastery. We provide opportunities for this in our [new project paths](https://projects.raspberrypi.org/en/paths).
 
 
 --- task ---
