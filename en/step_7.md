@@ -12,7 +12,7 @@ Young people can create digital stories, games, and animations in Scratch. You c
 
 --- task ---
 
-Check out this Scratch project. Click on the **seller** character (sprite) to buy items:
+**Check out** this Scratch project. Click on the **seller** character (sprite) to buy items:
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/528697069/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -75,6 +75,21 @@ It is suitable for older children who have some typing skills.
 **What can you make with it?**
 Python is used for developing websites and software, task automation, data analysis, and data visualisation.
 
+
+
+--- task ---
+*Look* at this data visualisation project made in Python. Click "Run" and then on the coloured dots to learn about recent volcanic eruptions.
+
+<div class="trinket">
+<iframe src="https://trinket.io/embed/python/818ad12eeb?outputOnly=true&runOption=run" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</div>
+
+**Volcanic eruptions:** [See inside](https://trinket.io/python/818ad12eeb){:target="_blank"}
+
+--- /task ---
+--- /task ---
+  
+  
   
 --- task ---
 
