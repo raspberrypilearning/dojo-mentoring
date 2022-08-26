@@ -32,7 +32,7 @@ It promotes the development of learners’ critical consciousness of the world a
 
 --- /task ---
 
-### Accessibility practices for Dojos
+## Accessibility practices for Dojos
 At your Dojo, you will have lots of different participants, including participants with disabilities and/or additional needs. You can help make a Dojo more accessible through listening to your participants, making reasonable adjustments, and deciding what works best, so that they can have the best possible CoderDojo experience.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
