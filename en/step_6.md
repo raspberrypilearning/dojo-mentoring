@@ -2,7 +2,9 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-### Ice-breakers and unplugged activities
+Dojos are hardware and software agnostic. That means young people and volunteers can use whatever resources, tools and programming languages that suit their needs. There are lots of freely available resources online, from unplugged activities to hardware emulators to tools to help young people develop computational thinking.  
+  
+## Ice-breakers and unplugged activities
 Icebreaker activities are designed to welcome and encourage interaction among Ninjas at the start of a Dojo. Offline or unplugged activities are coding-related activities that don’t require a computer. These short games are fantastic ways to help new Ninjas feel relaxed, and can also help young people learn coding concepts and terminology in a fun, informal way.
 
 **Example [ice-breaker and unplugged activities](https://coderdojo.com/2022/08/24/icebreakers-and-unplugged-activities-for-your-club/){:target="_blank"}.**
@@ -10,9 +12,6 @@ Icebreaker activities are designed to welcome and encourage interaction among Ni
 </div>
 <div>
 ## Our project resources
-Dojos are hardware and software agnostic. That means young people and volunteers can use whatever resources, tools and programming languages that suit their needs. There are lots of freely available resources online, from unplugged activities to hardware emulators to tools to help young people develop computational thinking.
-
-
 One way we support clubs is by offering learners a catalogue of more than 250 free digital making projects! Some of them have been translated into 30 languages.
 
 ### Improved project paths
