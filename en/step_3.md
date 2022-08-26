@@ -51,4 +51,21 @@ A ‘Hands-on’ style is when Mentors recognise that a Ninja is stuck on a prob
   
 --- /collapse ---
   
- 
+  
+--- collapse ---
+  
+---
+title: Lead from the front
+---
+Leading from the front can be useful to teach concepts and logic or to introduce a topic. We advise Dojos to not rely on this approach often, so that the Dojo does not resemble a school environment.
+
+--- /collapse ---
+  
+  
+--- task ---
+
+**Think** about the styles above. Note down which styles you think you are likely to use as a mentor. 
+What style would you be most comfortable with? Which would you find more challenging?
+
+--- /task ---
+
