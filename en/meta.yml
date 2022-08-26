@@ -22,4 +22,9 @@ steps:
 - title: Showcasing and reflection
 - title: Resources for mentors
 - title: Reflection 2
+  knowledge_quiz:
+    path: quiz1
+    version: 1
+    questions: 3
+    passing_score: 3
 - title: What next?
