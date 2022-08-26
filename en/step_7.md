@@ -12,7 +12,7 @@ Young people can create digital stories, games, and animations in Scratch. You c
 
 --- task ---
 
-Click on the **seller** character (sprite) to buy items:
+Check out this Scratch project. Click on the **seller** character (sprite) to buy items:
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/528697069/?autostart=false" frameborder="0"></iframe>
 </div>
