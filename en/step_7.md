@@ -43,8 +43,11 @@ It is suitable for older children who have some typing skills.
 Python is used for developing websites and software, task automation, data analysis, and data visualisation.
 
 Try it yourself
+  
 --- task ---
+
 Try an introductory level step-by-step project to get an idea of what young people can create with Python. This resource will teach you how to make a boat racing game.
+  
 --- /task ---
 
 You can also use our Introduction to Python crib sheet to get information on the different projects in the introduction to Python path, to help you while mentoring. 
