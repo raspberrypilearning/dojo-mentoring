@@ -15,7 +15,7 @@ Young people can create digital stories, games, and animations in Scratch.
 
 --- task ---
 
-**Check out** this Scratch project. Click on the **seller** character (sprite) to buy items:
+**Check out** this Scratch project. Click on the seller character (sprite) to buy items:
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/528697069/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -50,7 +50,7 @@ Young people can make and style websites with multiple webpages.
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Explore this Banana bread webpage. Can you spot things on this webpage that you have seen on other webpages?
+**Explore** this Banana bread webpage. Can you spot things on this webpage that you have seen on other webpages?
 
 
 <div>
