@@ -12,7 +12,7 @@ Once completed you should:
 + Learn a little about the most popular coding languages used in Dojos
 + Know what resources are available to support mentors
 
-This training will primarily focus on supporting guidance mentors and technical mentors to develop their knowledge and confidence to support young learners.
+This training will primarily focus on supporting volunteers who mentor young learners through providing guidance or technical support.
 
 ## A Dojo in action
 
