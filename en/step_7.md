@@ -12,12 +12,12 @@ Young people can create digital stories, games, and animations in Scratch. You c
 
 --- task ---
 
-Click on the t-shirts to put them in your bag, and the **seller** character (sprite) to buy items:
-
-**Cool Shirts**: [See inside](https://scratch.mit.edu/projects/528697069/editor){:target="_blank"}
+Click on the **seller** character (sprite) to buy items:
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/528697069/?autostart=false" frameborder="0"></iframe>
 </div>
+
+**Cool Shirts**: [See inside this project](https://scratch.mit.edu/projects/528697069/editor){:target="_blank"}
 
 --- /task ---
   
@@ -33,6 +33,7 @@ Click on the t-shirts to put them in your bag, and the **seller** character (spr
 Use our [Scratch reference guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/0) to look up information on the different elements in Scratch to help you while mentoring. 
   
 --- /task ---
+________________________________________
 
 ## HTML and CSS
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
@@ -63,6 +64,8 @@ Explore this Banana bread webpage. Can you spot things on this webpage that you 
 **Try an introductory level project** to get an idea of what young people can create with HTML and CSS. [This step-by-step project](https://projects.raspberrypi.org/en/projects/anime-expressions) will show you how to create and style a webpage for an anime drawing tutorial.
   
 --- /task ---
+
+________________________________________
 
 ## Python
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
