@@ -102,17 +102,9 @@ Ensures a Dojo operates in accordance with the [Raspberry Pi Foundations safegua
 
 --- task ---
 
-**Watch the video** and write down why you want to volunteer at a Dojo.
-
---- collapse ---
-
----
-title: Why volunteer at a Dojo?
----
+**Watch the video** and write down three reasons you want to volunteer at a Dojo.
 
 <iframe width="600" height="337" src="https://www.youtube.com/embed/Q6M0IdEn07E" title="Why volunteers help at their local CoderDojo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
---- /collapse ---
 
 
 --- /task ---
