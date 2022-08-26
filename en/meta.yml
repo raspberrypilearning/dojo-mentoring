@@ -17,6 +17,9 @@ steps:
     version: 1
     questions: 3
     passing_score: 3
-- title: Learning resources
+- title: Session resources
 - title: Common programming languages
+- title: Showcasing and reflection
+- title: Resources for mentors
+- title: Reflection 2
 - title: What next?
