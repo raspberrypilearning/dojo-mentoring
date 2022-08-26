@@ -94,6 +94,9 @@ Even in beginner languages like Scratch, Ninjas will learn about coding concepts
 <span style="color: #0faeb0"> There are a lot of skills volunteers can help young people learn in a Dojo beyond programming. 
 </p>
 
+--- task ---
+**Write down** three skills are you plan to support young people in developing.
+--- /task ---
 ## Group management and expectation setting
 Dojos aren’t formal education settings. It’s important that sessions are enjoyable and fun for all those involved. A good way to ensure this is to set expectations early. Encourage parents or guardians to read the [code of behaviour](https://help.coderdojo.com/cdkb/s/article/Code-of-Behaviour-volunteers) with children before attending. You can highlight the ethos of CoderDojo in your venue with our [motto posters](https://help.coderdojo.com/cdkb/s/article/Dojo-Motto-Posters). 
 
@@ -104,7 +107,12 @@ Involve young people in developing a code of conduct for the Dojo at the start o
 It is important for volunteers to take responsibility for promoting good and courteous behaviour themselves during the Dojo too. 
 
 --- task ---
-Use praise consistently and fairly ie. avoid favouritism. Involve and motivate young people by discussing and supporting them with projects appropriate to their needs and experience. 
+Use praise consistently and fairly ie. avoid favouritism.
+  
+--- /task ---
+  
+--- task ---
+Involve and motivate young people by discussing and supporting them with projects appropriate to their needs and experience. 
 
 --- /task ---
 
