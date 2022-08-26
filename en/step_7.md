@@ -10,11 +10,21 @@ Scratch is particularly great for beginners and younger children as they can see
 **What can you make with it?**
 Young people can create digital stories, games, and animations in Scratch. You can see some examples of projects made by young people involved in CoderDojo using Scratch below.
 
-EXAMPLE PROJECTS
+--- task ---
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 175px; flex-grow: 1">  
+Click on each sprite to see what they do. 
+
+</div>
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
+</div>
+</div>
+--- /task ---
   
 --- task ---
   
-**Try an introductory level project** to get an idea of what young people can create with Scratch. [This Scratch resource](https://projects.raspberrypi.org/en/projects/space-talk) will teach you how to create a space scene with characters that ‘emote’ to share their thoughts or feelings.
+**[Try this introductory level project](https://projects.raspberrypi.org/en/projects/space-talk)** to get an idea of what young people can create with Scratch. Create a space scene with characters that ‘emote’ to share their thoughts or feelings.
   
 --- /task ---
 
@@ -33,7 +43,21 @@ Suitable for children who have some experience typing, it can provide a good, vi
 **What can you make with it?**
 Young people can make and style websites with multiple webpages.
 
-EXAMPLE PROJECTS
+--- task ---
+
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 175px; flex-grow: 1">  
+Explore this Banana bread webpage. Can you spot things on this webpage that you have seen on other webpages?
+
+</div>
+<div>
+**Banana bread**: [See inside](https://trinket.io/html/a4e230c535){:target="_blank"}
+<div>
+<iframe src="https://trinket.io/embed/html/a4e230c535?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+--- /task ---
   
 --- task ---
   
