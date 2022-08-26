@@ -21,7 +21,7 @@ It promotes the development of learners’ critical consciousness of the world a
 + Providing opportunities for learners to choose personally meaningful projects and to express their own cultural identities 
 + Exploring issues of social justice and bias
 + Using equitable guidance approaches, such as open-ended, inquiry-led activities and discussion-based collaborative tasks.
-+ Providing inclusive representations of a range of cultures, and making sure learning materials accessible
++ Providing inclusive representations of a range of cultures, and making sure learning materials are accessible
 
 </div>
 </div>
