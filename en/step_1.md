@@ -12,6 +12,8 @@ Once completed you should:
 + Learn a little about the most popular coding languages used in Dojos
 + Know what resources are available to support mentors
 
+This training will primarily focus on supporting guidance mentors and technical mentors to develop their knowledge and confidence to support young learners.
+
 ## A Dojo in action
 
 Dojos run in a variety of different spaces and contexts. No two Dojos or even two sessions will look the same. Dojo’s are collaborative spaces, where chatter between the Ninjas is encouraged. Some clubs find a bit of structure useful for planning their events. 
@@ -93,7 +95,23 @@ Ensures a Dojo operates in accordance with the [Raspberry Pi Foundations safegua
 --- /collapse ---
 
 --- task ---
-Review the roles within a Dojo. Which role do you think you are best suited to?
+**Review** the roles within a Dojo. Which role do you think you are best suited to?
 --- /task ---
 
-This training will primarily focus on supporting guidance mentors and technical mentors to develop their knowledge and confidence to support young learners.
+--- task ---
+
+**Watch the video** and write down why you want to volunteer at a Dojo.
+--- collapse ---
+
+---
+title: Why volunteer at a Dojo?
+---
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/iIMnQwEQeYs" title="A Dojo in action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+--- /collapse ---
+
+
+
+--- /task ---
