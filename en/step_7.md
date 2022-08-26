@@ -80,7 +80,7 @@ Python is used for developing websites and software, task automation, data analy
 
 
 --- task ---
-*Look* at this data visualisation project made in Python. Click "Run" and then on the coloured dots to learn about recent volcanic eruptions.
+**Look** at this data visualisation project made in Python. Click "Run" and then on the coloured dots to learn about recent volcanic eruptions.
 
 <div class="trinket">
 <iframe src="https://trinket.io/embed/python/818ad12eeb?outputOnly=true&runOption=run" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
