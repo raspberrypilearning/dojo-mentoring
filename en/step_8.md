@@ -11,7 +11,7 @@ Ask Ninja's to showcase their project to highlight that you recognise the effort
 
 --- task ---
 
-Encourage the Ninjas to listen and clap after another Ninja has shared a project. This helps ensure that the presenter has a really positive experience.
+Encourage the Ninjas to listen and clap after another Ninja has shared a project. This helps ensure that the presenter has a positive experience.
 
 --- /task ---
 
