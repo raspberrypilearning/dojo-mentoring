@@ -2,11 +2,11 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Coding can help learners to participate in and shape a rapidly changing world. However, learning materials often reflect the historic stereotype that computing is a subject and career for White men. This includes how topics are presented, as well as the language and media assets chosen to introduce them. Resources that present this view of computing may prevent a diverse group of young people from engaging with them or identifying with the subject.
+Coding can help learners to participate in and shape a rapidly changing world. However, learning materials often reflect the historic stereotype that computing is a subject and career for White men. This includes how topics are presented, as well as the language and media assets chosen to introduce them. 
   
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Promotional materials for your Dojo, learning materials and approaches should promote equity and ensure that learners can see themselves represented through computing.</p>
-
+--- task ---
+Promotional materials for your Dojo, learning materials and mentoring approaches should promote equity and ensure that learners can see themselves represented through computing.</p>
+--- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">Culturally relevant pedagogy emphasises the importance of including and valuing all learners’ knowledge, ways of learning, and heritage.</p>
@@ -15,7 +15,8 @@ It promotes the development of learners’ critical consciousness of the world a
 
 </div>
 <div>
-###Culturally responsive mentoring practices include:
+  
+### Culturally responsive mentoring practices include:
 + Drawing on learners’ cultural knowledge and experiences to inform their learning 
 + Providing opportunities for learners to choose personally meaningful projects and to express their own cultural identities 
 + Exploring issues of social justice and bias
@@ -27,7 +28,7 @@ It promotes the development of learners’ critical consciousness of the world a
 
 --- task ---
 
-Another step of tasks to complete.
+**Review** the [guide about culturally responsive teaching](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/)
 
 --- /task ---
 
