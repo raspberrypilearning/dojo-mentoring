@@ -17,7 +17,7 @@ Young people can create digital stories, games, and animations in Scratch. You c
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/528697069/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Cool Shirts**: [See inside this project](https://scratch.mit.edu/projects/528697069/editor){:target="_blank"}
+[See inside this Cool Shirts project](https://scratch.mit.edu/projects/528697069/editor){:target="_blank"}
 
 --- /task ---
   
@@ -30,7 +30,7 @@ Young people can create digital stories, games, and animations in Scratch. You c
  
 --- task ---
   
-Use our [Scratch reference guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/0) to look up information on the different elements in Scratch to help you while mentoring. 
+Use our **[Scratch reference guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/0)** to look up information on the different elements in Scratch to help you while mentoring. 
   
 --- /task ---
 ________________________________________
@@ -49,19 +49,21 @@ Young people can make and style websites with multiple webpages.
 <div style="flex-basis: 175px; flex-grow: 1">  
 Explore this Banana bread webpage. Can you spot things on this webpage that you have seen on other webpages?
 
-</div>
+
 <div>
-**Banana bread**: [See inside](https://trinket.io/html/a4e230c535){:target="_blank"}
 <div>
+  
 <iframe src="https://trinket.io/embed/html/a4e230c535?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-</div>
+  
+[See inside this Banana bread webpage project](https://trinket.io/html/a4e230c535){:target="_blank"}
+
 </div>
 </div>
 --- /task ---
   
 --- task ---
   
-**Try an introductory level project** to get an idea of what young people can create with HTML and CSS. [This step-by-step project](https://projects.raspberrypi.org/en/projects/anime-expressions) will show you how to create and style a webpage for an anime drawing tutorial.
+**[Try this introductory level project**](https://projects.raspberrypi.org/en/projects/anime-expressions) to get an idea of what young people can create with HTML and CSS. Create and style a webpage for an anime drawing tutorial.
   
 --- /task ---
 
@@ -83,11 +85,10 @@ Python is used for developing websites and software, task automation, data analy
 <div class="trinket">
 <iframe src="https://trinket.io/embed/python/818ad12eeb?outputOnly=true&runOption=run" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
-
-**Volcanic eruptions:** [See inside](https://trinket.io/python/818ad12eeb){:target="_blank"}
+[See inside this Volcanic eruptions project](https://trinket.io/python/818ad12eeb){:target="_blank"}
 
 --- /task ---
---- /task ---
+
   
   
   
@@ -99,7 +100,7 @@ Python is used for developing websites and software, task automation, data analy
 
 --- task ---
   
-**Use** our [Introduction to Python crib sheet](https://assets.ctfassets.net/prb17lxex1hm/6Q5jK7IPEBgDw7DRjGCfOU/da215192bc5ebf01ffda3c8645fdf1ca/Crib_Sheets______Introduction_to_Python.pdf) to get information on the different projects in the introduction to Python path, to help you while mentoring. 
+**Use** our **[Introduction to Python crib sheet](https://assets.ctfassets.net/prb17lxex1hm/6Q5jK7IPEBgDw7DRjGCfOU/da215192bc5ebf01ffda3c8645fdf1ca/Crib_Sheets______Introduction_to_Python.pdf)** to get information on the different projects in the introduction to Python path, to help you while mentoring. 
   
 --- /task ---
 
