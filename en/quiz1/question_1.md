@@ -14,28 +14,32 @@ Have fun!
 legend: Question 1 of 3
 ---
 
+A young girl tells you during a session *“I’m useless at this. I think I will always be bad at logical stuff.”* How do you respond?
 
 --- choices ---
 
-- ( )
+- ( )Yes you are making a lot of mistakes. I can take over and fix it.
 
   --- feedback ---
 
+If a Ninja is getting frustrated it’s important to support them and re-energise them. Don’t take over the mouse and keyboard as this is likely to discourage them further.
+
   --- /feedback ---
 
-- ( )
+- ( )You can just give up if you don’t understand and try something different.
 
   --- feedback ---
-
+If a Ninja is getting frustrated it’s important to support them and re-energise them. While you might think that encouraging them to try something different is helpful, it teaches them that they should give up anytime something is challenging and that coding isn't suitable for them. 
   --- /feedback ---
 
-- (x) 
+- (x) This part of the project is challenging. Let’s see if we can work out a solution together. 
 
   --- feedback ---
-
+If a ninja is struggling it can be good to help them for a bit. It's ok to admit that Avoid where possible taking control of their mouse and keyboard. Make suggestions and point to their screen but try to get them to work through the solution.
   --- /feedback ---
 
-- ( ) 
+- (x) Most people struggle when they try something for the first time. If you practice, over time you will get better and better. I know another Ninja had this issue as well, we can ask them how they solved it.
+
 
   --- feedback ---
 
