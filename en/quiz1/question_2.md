@@ -31,7 +31,7 @@ Take the young persons interests and skill level into account when moving on to 
 
   --- /feedback ---
 
-- ( ) That's great, there are a few different things you could add on to this to challenge yourself. Would you also like to share what you've learned so far with other Ninjas at the end of the session?
+- (x) That's great, there are a few different things you could add on to this to challenge yourself. Would you also like to share what you've learned so far with other Ninjas at the end of the session?
 
   --- feedback ---
 When appropriate, encourage Ninjas to stretch themselves by giving them a new target to reach for. This can also include developing their presentation skills by showcasing what they have done so far to others.
