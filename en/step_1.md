@@ -95,3 +95,5 @@ Ensures a Dojo operates in accordance with the [Raspberry Pi Foundations safegua
 --- task ---
 Review the roles within a Dojo. Which role do you think you are best suited to?
 --- /task ---
+
+This training will primarily focus on supporting guidance mentors and technical mentors to develop their knowledge and confidence to support young learners.
