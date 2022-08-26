@@ -1,4 +1,12 @@
-## Mentoring styles 
+## Skills learnt and group management
+
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+  
+With the support of mentors Ninjas develop a wide-range of skills in a Dojo. Young people learn:
+  
+  
+### Mentoring styles 
  
 At a Dojo you will see a mix of different styles of mentoring depending on the situation. Being comfortable as a mentor and being able to use mentoring styles is importance.
 
