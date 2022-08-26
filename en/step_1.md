@@ -6,7 +6,7 @@ CoderDojo is a global movement of free, volunteer-led, community-based programmi
 <span style="color: #0faeb0">**Volunteers**</span> are the backbone of CoderDojo. Without them, CoderDojo would not exist!
 </p>
 
-This training will primarily focus on supporting volunteers who mentor young learners through providing guidance or technical support.
+This course will primarily focus on training volunteers who mentor young learners through providing guidance or technical support.
 
 Once completed you should:
 + Understand the different roles volunteers have in a Dojo
