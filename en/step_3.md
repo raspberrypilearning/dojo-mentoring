@@ -72,12 +72,27 @@ What style would you be most comfortable with? Which would you find more challen
 --- task ---
 
 Noting the mentoring styles suggested above, **write down** some of the characteristics you think would be useful as a mentor. Beside each note if you have this attribute yourself. 
+
+--- collapse ---
   
+---
+title: Example mentor characteristics
+---
+  
++ Patient
++ Enthusiastic
++ Passionate about learning
++ Treat people with respect as individuals
++ Can work in teams
++ Adaptable
++ Technically proficient
++ Organised
++ Like helping others
++ Experienced with technology
++ Experienced with young people
+
+--- /collapse ---
+
 --- /task ---
-
-
-
-
-
 
 --- save ---
