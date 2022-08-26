@@ -20,7 +20,12 @@ Dojos run in a variety of different spaces and contexts. No two Dojos or even tw
 
 Feel free to change it up, and alternate the types of sessions you run based on volunteers experiences and participants interests.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/iIMnQwEQeYs" title="A Dojo in action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+--- task ---
+**See** a Dojo in action:
+<iframe width="600" height="337" src="https://www.youtube.com/embed/iIMnQwEQeYs" title="A Dojo in action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+--- task ---
+
 
 ## Roles within a Dojo
 Within a Dojo there are usually the children attending (Ninjas), parents of those attending, and those volunteering their time to support. 
