@@ -28,7 +28,7 @@ It promotes the development of learners’ critical consciousness of the world a
 
 --- task ---
 
-**Review** the [guide about culturally responsive teaching](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/)
+**Review** the [guide about culturally responsive teaching](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/){:target="_blank"}
 
 --- /task ---
 
@@ -49,7 +49,7 @@ And remember, not all disabilities or additional needs are visible.
 
 
 --- task ---
-**Review** our [Accessibility guide](https://help.coderdojo.com/cdkb/s/article/CoderDojo-Accessibility-GuidesYoeNrUEuBblQa3aFB.8nNukwlSgeR_QH21qLQJw)
+**Review** our [Accessibility guide](https://help.coderdojo.com/cdkb/s/article/CoderDojo-Accessibility-GuidesYoeNrUEuBblQa3aFB.8nNukwlSgeR_QH21qLQJw){:target="_blank"}
 
 --- /task ---
 
