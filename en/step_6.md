@@ -13,6 +13,10 @@ Icebreaker activities are designed to welcome and encourage interaction among Ni
 <div>
 ## Our project resources
 One way we support clubs is by offering learners a catalogue of more than 250 free digital making projects! Some of them have been translated into 30 languages.
+  
+--- task ---
+Familiarise yourself with projects young people are working on so you are better able to support them. 
+--- /task ---
 
 ### Improved project paths
 More recently, we’ve released our educational projects in a new format to better support young people who want to learn coding and gradually develop independence. Each path is made up of six projects, of three different types, in a 3-2-1 structure:
