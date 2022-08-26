@@ -110,8 +110,7 @@ Ensures a Dojo operates in accordance with the [Raspberry Pi Foundations safegua
 title: Why volunteer at a Dojo?
 ---
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/iIMnQwEQeYs" title="A Dojo in action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="600" height="337" src="https://www.youtube.com/embed/Q6M0IdEn07E" title="Why volunteers help at their local CoderDojo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 --- /collapse ---
 
