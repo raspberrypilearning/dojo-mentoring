@@ -73,6 +73,10 @@ What style would you be most comfortable with? Which would you find more challen
 
 Noting the mentoring styles suggested above, **write down** some of the characteristics you think would be useful as a mentor. Beside each note if you have this attribute yourself. 
   
+--- /task ---
+  
+Need some help? See some examples below:
+
 --- collapse ---
   
 ---
@@ -92,6 +96,6 @@ title: Example mentor characteristics:
 
 --- /collapse ---
 
---- /task ---
+
 
 --- save ---
