@@ -63,7 +63,7 @@ Explore this Banana bread webpage. Can you spot things on this webpage that you 
   
 --- task ---
   
-**[Try this introductory level project**](https://projects.raspberrypi.org/en/projects/anime-expressions) to get an idea of what young people can create with HTML and CSS. Create and style a webpage for an anime drawing tutorial.
+**[Try this introductory level project](https://projects.raspberrypi.org/en/projects/anime-expressions)** to get an idea of what young people can create with HTML and CSS. Create and style a webpage for an anime drawing tutorial.
   
 --- /task ---
 
@@ -94,7 +94,7 @@ Python is used for developing websites and software, task automation, data analy
   
 --- task ---
 
-**Try an introductory level project** to get an idea of what young people can create with Python. [This step-by-step resource](https://projects.raspberrypi.org/en/projects/hello-world) will teach you how to write an interactive Python project that uses emoji.
+**[Try this introductory level Python project](https://projects.raspberrypi.org/en/projects/hello-world)** to get an idea of what young people can create. It will teach you how to write an interactive Python project that uses emoji.
   
 --- /task ---
 
