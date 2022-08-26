@@ -15,6 +15,11 @@ Encourage the Ninjas to listen and clap after another Ninja has shared a project
 
 --- /task ---
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+A <span style="color: #0faeb0">**[Coolest Projects](https://online.coolestprojects.org/)** is a creative technology showcase for young people, it includes both in-person events and an online project gallery. Coolest Projects Global is free and open to creators up to the age of 18, wherever they are in the world.</p>
+  
+End of year showcases or larger project showcases like Coolest Projects, where parents, friends and relatives celebrate the achievements of young people can also be very rewarding for mentors, as you get to see how your support has helped Ninjas progress and learn.
+
 ## Reflecting on learnings
 Encouraging learners to revisit the important learnings from the project solidifies new knowledge and provides opportunities for mastery. We provide opportunities for this in our [new project paths](https://projects.raspberrypi.org/en/paths).
 
