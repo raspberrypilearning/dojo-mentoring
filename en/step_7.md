@@ -11,12 +11,18 @@ Scratch is particularly great for beginners and younger children as they can see
 Young people can create digital stories, games, and animations in Scratch. You can see some examples of projects made by young people involved in CoderDojo using Scratch below.
 
 EXAMPLE PROJECTS
+  
 --- task ---
+  
 **Try an introductory level step-by-step project** to get an idea of what young people can create with Scratch. [This Scratch resource](https://projects.raspberrypi.org/en/projects/space-talk) will teach you how to create a space scene with characters that ‘emote’ to share their thoughts or feelings.
+  
 --- /task ---
 
+ 
 --- task ---
+  
 Use our [Scratch reference guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/0) to look up information on the different elements in Scratch to help you while mentoring. 
+  
 --- /task ---
 
 ## HTML and CSS
