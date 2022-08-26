@@ -15,7 +15,7 @@ Encourage the Ninjas to listen and clap after another Ninja has shared a project
 
 --- /task ---
 
-End of year project showcases or larger showcases like Coolest Projects can also be very rewarding for mentors, as you see how your support has helped Ninjas progress and learn.
+End of year project showcases or larger showcases like Coolest Projects can also be very rewarding for mentors, as you get to see how your support has helped Ninjas progress and learn.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0"> **[Coolest Projects](https://online.coolestprojects.org/)** is a creative technology showcase for young people, it includes both in-person events and an online project gallery. Coolest Projects Global is free and open to creators up to the age of 18, wherever they are in the world.</p>
