@@ -57,6 +57,8 @@ Python is used for developing websites and software, task automation, data analy
 --- /task ---
 
 --- task ---
+  
 **Use** our [Introduction to Python crib sheet](https://assets.ctfassets.net/prb17lxex1hm/6Q5jK7IPEBgDw7DRjGCfOU/da215192bc5ebf01ffda3c8645fdf1ca/Crib_Sheets______Introduction_to_Python.pdf) to get information on the different projects in the introduction to Python path, to help you while mentoring. 
---- task ---
+  
+--- /task ---
 
