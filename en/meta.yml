@@ -17,5 +17,6 @@ steps:
     version: 1
     questions: 3
     passing_score: 3
-- title: Resources for mentors
+- title: Learning resources
+- title: Common programming languages
 - title: What next?
