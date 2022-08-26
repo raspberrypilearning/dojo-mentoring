@@ -38,15 +38,9 @@ Provide interesting and relevant facts about the skills and knowledge being taug
 ---
 title: Design decision points
 ---
-Provide interesting and relevant facts about the skills and knowledge being taught.
---- /collapse ---
-  
---- collapse ---
----
-title: Real-world info box-outs
----
 Allow learners to make choices about how their project looks and what it does, based on their preferences and interests.
 --- /collapse ---
+
   
 --- collapse ---
 ---
