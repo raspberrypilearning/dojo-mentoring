@@ -49,9 +49,6 @@ And remember, not all disabilities or additional needs are visible.
 
 
 --- task ---
-
-Step content... 
-Can use:
 **Review** our [Accessibility guide](https://help.coderdojo.com/cdkb/s/article/CoderDojo-Accessibility-GuidesYoeNrUEuBblQa3aFB.8nNukwlSgeR_QH21qLQJw)
 
 --- /task ---
