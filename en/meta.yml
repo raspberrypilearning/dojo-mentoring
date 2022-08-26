@@ -21,7 +21,7 @@ steps:
 - title: Common programming languages
 - title: Showcasing and reflection
 - title: Resources for mentors
-- title: Reflection 2
+- title: Example scenarios
   knowledge_quiz:
     path: quiz1
     version: 1
