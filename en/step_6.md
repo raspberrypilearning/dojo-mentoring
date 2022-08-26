@@ -5,7 +5,7 @@
 ### Ice-breakers and unplugged activities
 Icebreaker activities are designed to welcome and encourage interaction among Ninjas at the start of a Dojo. Offline or unplugged activities are coding-related activities that don’t require a computer. These short games are fantastic ways to help new Ninjas feel relaxed, and can also help young people learn coding concepts and terminology in a fun, informal way.
 
-**Example [ice-breaker and unplugged activities](https://coderdojo.com/2022/08/24/icebreakers-and-unplugged-activities-for-your-club/).**
+**Example [ice-breaker and unplugged activities](https://coderdojo.com/2022/08/24/icebreakers-and-unplugged-activities-for-your-club/){:target="_blank"}.**
 
 </div>
 <div>
