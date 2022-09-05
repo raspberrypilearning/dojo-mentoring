@@ -15,13 +15,13 @@ Check out some example [ice-breaker and unplugged activities](https://coderdojo.
 </div>
 <div>
 ## Our project resources
-One way we support clubs is by offering learners a catalogue of more than 250 free digital making projects! Some of them have been translated into 30 languages.
+One way we support clubs is by offering learners a catalogue of [more than 250 free digital making projects](https://projects.raspberrypi.org/en){:target="_blank"}! Some of them have been translated into 30 languages.
   
 --- task ---
 Familiarise yourself with projects young people are working on so you are better able to support them. 
 --- /task ---
 
-### Improved project paths
+### [Improved project paths](https://projects.raspberrypi.org/en/paths){:target="_blank"}
 More recently, we’ve released our educational projects in a new format to better support young people who want to learn coding and gradually develop independence. Each path is made up of six projects, of three different types, in a 3-2-1 structure:
 + The first **three Explore projects** introduce learners to a set of skills and knowledge, and provide step-by-step instructions to help learners develop initial confidence. 
 + The next **two Design projects** are opportunities for learners to practise the skills they learned in the previous Explore projects, and to express themselves creatively. 
