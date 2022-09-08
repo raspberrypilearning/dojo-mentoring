@@ -39,9 +39,9 @@ For example:
 title: Supporting self-help
 ---
 We use the motto “Ask 3 then me!” to encourage Ninjas to try a range of self-help strategies if they get stuck before going to a mentor. [See our motto posters](https://help.coderdojo.com/cdkb/s/article/Dojo-Motto-Posters){:target="_blank"}. Ninjas are told to: 
-+ Ask yourself (test your code and try to find the error)
-+ Ask a search engine
-+ Ask your peers and only then ask a mentor.
+1. Ask yourself (test your code and try to find the error)
+2. Ask a search engine
+3. Ask your peers, and only then ask a mentor.
   
 For example:
 + Look at the what the most recent piece of code you added was. Was the code running without any errors before you added that in?
@@ -54,9 +54,13 @@ For example:
 --- collapse ---
   
 ---
-title: Hands on
+title: Direct guidance
 ---
-A ‘Hands-on’ style is when Mentors recognise that a Ninja is stuck on a problem and may need more direct guidance. Often this approach is useful for younger Ninjas who cannot find the answer elsewhere, or struggle with typing accurately.
+A ‘direct guidance’ style is when Mentors recognise that a Ninja is stuck on a problem and may need more specific feedback. Often this approach is useful for younger Ninjas who cannot find the answer elsewhere, or struggle with typing accurately.
+  
+For example:
++ Here on line 30 I see an error in the code that seems to be causing the issue. What do you think it could be?
++ You can change the sprites costume using the purple "Looks" blocks in Scratch. Check through the "Looks" blocks yourself and pick which one you think would work best for your project.
   
 --- /collapse ---
   
@@ -67,7 +71,9 @@ A ‘Hands-on’ style is when Mentors recognise that a Ninja is stuck on a prob
 title: Lead from the front
 ---
 Leading from the front can be useful to teach concepts and logic or to introduce a topic. We advise Dojos to not rely on this approach often, so that the Dojo does not resemble a school environment.
-
+  
+![A photo of a mentor pointing at a board with Scratch elements projects onto it in front of children](images/Mentor-pointing.jpg)
+ 
 --- /collapse ---
   
   
