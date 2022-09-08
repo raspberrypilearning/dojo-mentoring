@@ -12,6 +12,10 @@ At a Dojo you will see a mix of different styles of mentoring depending on the s
 title: Encouragement
 ---
 Using encouragement and a positive attitude to get children to take pride in learning something they initially found difficult. This positive encouragement approach helps guide young people to new ideas and fresh approaches.
+  
+For example:
++ Well done on getting this far through the project yourself. Let's look through the last few lines of code you added to see where the issue might be.
++ You did something similar in your project last week. Can you remember the blocks you used? Then we can add on from there.
 
 --- /collapse ---
   
@@ -34,10 +38,15 @@ For example:
 ---
 title: Supporting self-help
 ---
-We use the motto “Ask 3 then me!” to encourage Ninjas to try a range of self-help strategies if they get stuck before going to a mentor. They are told to 
+We use the motto “Ask 3 then me!” to encourage Ninjas to try a range of self-help strategies if they get stuck before going to a mentor. [See our motto posters](https://help.coderdojo.com/cdkb/s/article/Dojo-Motto-Posters){:target="_blank"}. Ninjas are told to: 
 + Ask yourself (test your code and try to find the error)
 + Ask a search engine
 + Ask your peers and only then ask a mentor.
+  
+For example:
++ Look at the what the most recent piece of code you added was. Was the code running without any errors before you added that in?
++ If you search on Google "code to add a link in html" you should find what you are looking for.
++ Did you ask [Name of another Ninja] what they did to get it to work? They are working on a similar project.
   
 --- /collapse ---
   
