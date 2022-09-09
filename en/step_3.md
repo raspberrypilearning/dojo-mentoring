@@ -15,7 +15,7 @@ Using encouragement and a positive attitude to get children to take pride in lea
   
 For example:
 + Well done on getting this far through the project yourself. Let's look through the last few lines of code you added to see where the issue might be.
-+ You did something similar in your project last week. Can you remember the blocks you used? Then we can add on from there.
++ Well done on completing this project. It would be great if you can share it with the group at the end of the session, so they can see and learn from the work you did.
 
 --- /collapse ---
   
