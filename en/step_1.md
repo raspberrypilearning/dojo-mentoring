@@ -72,13 +72,13 @@ A Champion or co-champions are people who volunteer to take charge of setting up
 ---
 title: Mentors (technical or guidance)
 ---
-Mentors support young people who attend Dojos in a variety of ways by facilitating their learning during Dojo sessions.
+Mentors support young people who attend Dojos in a variety of ways by facilitating their learning during Dojo sessions. Mentors are not expected to have all the answers. Instead they support Ninjas, to use the resources and tools available, to resolve issues themselves.
 
 + Mentors (Technical) are those with programming skills and/or coding experience. They often have a preferred area and expertise within which they like to work (eg. HTML, Python, Unity). This can influence the topics covered in the Dojo.
 
-However, you don’t have to be a coding expert to be a mentor.
+However, you don’t need to have coding experience to be a mentor.
 
-+ Mentors (Guidance) are those who facilitate learning by encouraging young people, helping them get set up, talking them through a project and supporting them to find their own solutions. Often guidance mentors gain an understanding of basic languages like Scratch and be a huge help.
++ Mentors (Guidance) are those who facilitate learning by encouraging young people, helping them get set up, talking them through a project and supporting them to find their own solutions. Often guidance mentors gain an understanding of languages like Scratch by supporting young people.
 
 
 --- /collapse ---
