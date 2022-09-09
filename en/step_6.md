@@ -22,13 +22,21 @@ Familiarise yourself with projects young people are working on so you are better
 --- /task ---
 
 ### [Improved project paths](https://projects.raspberrypi.org/en/paths){:target="_blank"}
-More recently, we’ve released our educational projects in a new format to better support young people who want to learn coding and gradually develop independence. Each path is made up of six projects, of three different types, in a 3-2-1 structure:
+More recently, we’ve released our educational projects in a new format to better support young people who want to learn coding and gradually develop independence. 
+  
+--- collapse ---
+---
+title: New path structure
+---
+
+Each path is made up of six projects, of three different types, in a 3-2-1 structure:
+  
 + The first **three Explore projects** introduce learners to a set of skills and knowledge, and provide step-by-step instructions to help learners develop initial confidence. 
 + The next **two Design projects** are opportunities for learners to practise the skills they learned in the previous Explore projects, and to express themselves creatively. 
 + In the final **one Invent project**, learners focus on completing a project to meet a project brief for a particular audience. The project brief is written so that they can meet it using the skills they’ve learned by following the path up to this point. 
   
 ![An image showing how the six projects in a path are made up of 3 explore projects, 2 design projects and 1 invent project](images/Project-types.png)
-
+--- /collapse ---
 
 ### New project features
 We’ve also introduced some new features to add interactivity, choice, and authenticity to each project in a path:
@@ -38,6 +46,8 @@ We’ve also introduced some new features to add interactivity, choice, and auth
 title: Real-world info box-outs
 ---
 Provide interesting and relevant facts about the skills and knowledge being taught.
+  
+![An example info box-out](images/box-out.png)
 --- /collapse ---
 
 --- collapse ---
@@ -46,13 +56,16 @@ title: Design decision points
 ---
 Allow learners to make choices about how their project looks and what it does, based on their preferences and interests.
   
+![An example learners can make project choices](images/design-decision.png)
 --- /collapse ---
 
 --- collapse ---
 ---
-title: New project featuresDebugging tips
+title: Debugging tips
 ---
 Throughout each project debugging tips give learners guidance for finding and fixing common coding mistakes.
+  
+![A debugging tip example](images/Debug-Python.png)
   
 --- /collapse ---
   
@@ -61,6 +74,8 @@ Throughout each project debugging tips give learners guidance for finding and fi
 title: Project reflection steps
 ---
 Solidify new knowledge and provide opportunities for mastery by letting learners revisit the important learnings from the project. Common misconceptions are highlighted, and learners are guided to the correct answer.
+
+![A reflection question example](images/Reflection.png)
 --- /collapse ---
 
 --- collapse ---
@@ -68,7 +83,9 @@ Solidify new knowledge and provide opportunities for mastery by letting learners
 title: An open-ended upgrade step
 ---
 At the end of each project offers inspiration for young people to give them ideas for ways in which they could continue to improve upon their project in the future.
-  
+
+
+![An upgrade step example](images/Upgrade.png)
 --- /collapse ---
  
 
