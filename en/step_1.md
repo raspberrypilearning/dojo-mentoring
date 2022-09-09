@@ -27,7 +27,22 @@ Feel free to change it up, and alternate the types of sessions you run based on 
 
 --- /task ---
 
+## Why people volunteer with CoderDojo
+People have told us they volunteer with CoderDojo for a variety of reasons. These include:
++ Learning new skills
++ Meeting new people and making friends
++ The opportunity to share their knowledge, passion and experience
++ Wanting to give back to their local community
++ A desire to help young people develop skills for the future.
 
+--- task ---
+
+**Watch** the video. **Write down** why you are interested in volunteering at a Dojo.
+
+<iframe width="600" height="337" src="https://www.youtube.com/embed/Q6M0IdEn07E" title="Why volunteers help at their local CoderDojo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+--- /task ---
 ## Roles within a Dojo
 Within a Dojo there are usually the children attending (Ninjas), parents of those attending, and those volunteering their time to support. 
 
@@ -106,11 +121,4 @@ Ensures a Dojo operates in accordance with the [Raspberry Pi Foundations safegua
 
 --- /task ---
 
---- task ---
 
-**Watch** the video. **Write down** three reasons why you want to volunteer at a Dojo.
-
-<iframe width="600" height="337" src="https://www.youtube.com/embed/Q6M0IdEn07E" title="Why volunteers help at their local CoderDojo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
---- /task ---
