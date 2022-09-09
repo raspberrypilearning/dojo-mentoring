@@ -1,7 +1,7 @@
 ## What next?
 
 ### Mentor input and involvement in sessions
-It is important that your interests and motivations for volunteering are being met, as is feasible. Open communication is key to this. Talking to those involved in managing the club and being involved in the planning Dojo sessions helps ensure:
+It's important that you have a great experience volunteering with CoderDojo. It is helpful if you share with the Champion or other mentors what your interests and motivations are, this will help ensure:
 + Your role is fulfilling
 + You are performing tasks that are interesting to you
 + Ideas for adaptations that could be beneficial to volunteers and the wider Dojo are discussed and acted on. 
