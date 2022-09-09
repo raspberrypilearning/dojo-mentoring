@@ -97,7 +97,7 @@ Even in beginner languages like Scratch, Ninjas will learn about coding concepts
 </p>
 
 --- task ---
-**Write down** three skills you're particularly interested in supporting young people develop
+**Write down** three skills you are particularly interested in supporting young people develop
 --- /task ---
   
 ## Group management and expectation setting
