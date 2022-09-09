@@ -27,7 +27,7 @@ More recently, we’ve released our educational projects in a new format to bett
 + The next **two Design projects** are opportunities for learners to practise the skills they learned in the previous Explore projects, and to express themselves creatively. 
 + In the final **one Invent project**, learners focus on completing a project to meet a project brief for a particular audience. The project brief is written so that they can meet it using the skills they’ve learned by following the path up to this point. 
   
-![An image showing how the six projects in a path are made up of 3 explore projects, 2 design projects and 1 invent project](images/Project-types.jpg)
+![An image showing how the six projects in a path are made up of 3 explore projects, 2 design projects and 1 invent project](images/Project-types.png)
 
 --- collapse ---
 ---
