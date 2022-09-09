@@ -79,6 +79,8 @@ title: Presentation skills
 ---
   
 Often young people are encouraged to talk about what they have made at the end of a session. Young people learn how to describe what they have done, present aspects of their project, and answer others questions about their project.
+
+![Examples of young people showcasing their projects. Image credit to : @yukiko_kikuchi, @SandraMaguire and @arucoderdojo](images/Showcase.png)
   
 --- /collapse ---
 
