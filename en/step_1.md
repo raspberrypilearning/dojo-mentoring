@@ -100,7 +100,7 @@ Youth Mentors are usually CoderDojo Ninjas who have attended their Dojo for a wh
 ---
 title: Support volunteers
 ---
-Volunteers support the Champion and mentors in running a Dojo. They help run the event and generally support both mentors and Ninjas. Volunteers are often enthusiastic parents of Ninjas! Often Volunteers will upskill to Mentors (Guidance) once they feel confident in a topic e.g. Scratch or HTML/CSS..
+Volunteers support the Champion and mentors in running a Dojo. They help run the event and generally support both mentors and Ninjas. Volunteers are often enthusiastic parents of Ninjas! Often Volunteers will upskill to Mentors (Guidance) once they feel confident in a topic e.g. Scratch or HTML/CSS.
 
 --- /collapse ---
 
