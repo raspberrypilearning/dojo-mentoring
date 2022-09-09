@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Coding can help learners to participate in and shape a rapidly changing world. However, learning materials often reflect the historic stereotype that computing is a subject and career for White men. This includes how topics are presented, as well as the language and media assets chosen to introduce them. 
+Coding can help learners to participate in and shape a rapidly changing world. However, learning materials can sometimes reflect the historic stereotype that computing is a subject and career for White men. This includes how topics are presented, as well as the language and media assets chosen to introduce them. 
   
 --- task ---
 Promotional materials for your Dojo, learning materials and mentoring approaches should promote equity and ensure that learners can see themselves represented through computing.

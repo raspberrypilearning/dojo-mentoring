@@ -27,7 +27,22 @@ Feel free to change it up, and alternate the types of sessions you run based on 
 
 --- /task ---
 
+## Why people volunteer with CoderDojo
+People have told us they volunteer with CoderDojo for a variety of reasons. These include:
++ Learning new skills
++ Meeting new people and making friends
++ The opportunity to share their knowledge, passion and experience
++ Wanting to give back to their local community
++ A desire to help young people develop skills for the future.
 
+--- task ---
+
+**Watch** the video. **Write down** why you are interested in volunteering at a Dojo.
+
+<iframe width="600" height="337" src="https://www.youtube.com/embed/Q6M0IdEn07E" title="Why volunteers help at their local CoderDojo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+--- /task ---
 ## Roles within a Dojo
 Within a Dojo there are usually the children attending (Ninjas), parents of those attending, and those volunteering their time to support. 
 
@@ -57,13 +72,13 @@ A Champion or co-champions are people who volunteer to take charge of setting up
 ---
 title: Mentors (technical or guidance)
 ---
-Mentors support young people who attend Dojos in a variety of ways by facilitating their learning during Dojo sessions.
+Mentors support young people who attend Dojos in a variety of ways by facilitating their learning during Dojo sessions. Mentors are not expected to have all the answers. Instead they support Ninjas, to use the resources and tools available, to resolve issues themselves.
 
 + Mentors (Technical) are those with programming skills and/or coding experience. They often have a preferred area and expertise within which they like to work (eg. HTML, Python, Unity). This can influence the topics covered in the Dojo.
 
-However, you don’t have to be a coding expert to be a mentor.
+However, you don’t need to have coding experience to be a mentor.
 
-+ Mentors (Guidance) are those who facilitate learning by encouraging young people, helping them get set up, talking them through a project and supporting them to find their own solutions. Often guidance mentors gain an understanding of basic languages like Scratch and be a huge help.
++ Mentors (Guidance) are those who facilitate learning by encouraging young people, helping them get set up, talking them through a project and supporting them to find their own solutions. Often guidance mentors gain an understanding of languages like Scratch by supporting young people.
 
 
 --- /collapse ---
@@ -85,7 +100,7 @@ Youth Mentors are usually CoderDojo Ninjas who have attended their Dojo for a wh
 ---
 title: Support volunteers
 ---
-Volunteers support the Champion and mentors in running a Dojo. They help run the event and generally support both mentors and Ninjas. Volunteers are often enthusiastic parents of Ninjas! Often Volunteers will upskill to Mentors (Guidance) once they feel confident in a topic e.g. Scratch or HTML/CSS..
+Volunteers support the Champion and mentors in running a Dojo. They help run the event and generally support both mentors and Ninjas. Volunteers are often enthusiastic parents of Ninjas! Often Volunteers will upskill to Mentors (Guidance) once they feel confident in a topic e.g. Scratch or HTML/CSS.
 
 --- /collapse ---
 
@@ -106,11 +121,4 @@ Ensures a Dojo operates in accordance with the [Raspberry Pi Foundations safegua
 
 --- /task ---
 
---- task ---
 
-**Watch** the video. **Write down** three reasons why you want to volunteer at a Dojo.
-
-<iframe width="600" height="337" src="https://www.youtube.com/embed/Q6M0IdEn07E" title="Why volunteers help at their local CoderDojo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
---- /task ---

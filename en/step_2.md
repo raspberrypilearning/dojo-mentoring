@@ -95,8 +95,9 @@ Even in beginner languages like Scratch, Ninjas will learn about coding concepts
 </p>
 
 --- task ---
-**Write down** three skills are you plan to support young people in developing.
+**Write down** three skills you're particularly interested in supporting young people develop
 --- /task ---
+  
 ## Group management and expectation setting
 Dojos aren’t formal education settings. It’s important that sessions are enjoyable and fun for all those involved. A good way to ensure this is to set expectations early. Encourage parents or guardians to read the [code of behaviour](https://help.coderdojo.com/cdkb/s/article/Code-of-Behaviour-volunteers){:target="_blank"} with children before attending. You can highlight the ethos of CoderDojo in your venue with our [motto posters](https://help.coderdojo.com/cdkb/s/article/Dojo-Motto-Posters){:target="_blank"}. 
 
