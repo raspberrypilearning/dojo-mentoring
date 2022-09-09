@@ -44,7 +44,7 @@ We use the motto “Ask 3 then me!” to encourage Ninjas to try a range of self
 3. Ask your peers, and only then ask a mentor.
   
 For example:
-+ Look at the what the most recent piece of code you added was. Was the code running without any errors before you added that in?
++ Look at what the most recent piece of code you added was. Was the code running without any errors before you added that in?
 + If you search on Google "code to add a link in html" you should find what you are looking for.
 + Did you ask [Name of another Ninja] what they did to get it to work? They are working on a similar project.
   
@@ -60,7 +60,7 @@ A ‘direct guidance’ style is when Mentors recognise that a Ninja is stuck on
   
 For example:
 + Here on line 30 I see an error in the code that seems to be causing the issue. What do you think it could be?
-+ You can change the sprites costume using the purple "Looks" blocks in Scratch. Check through the "Looks" blocks yourself and pick which one you think would work best for your project.
++ You can change the sprite's costume using the purple "Looks" blocks in Scratch. Check through the "Looks" blocks yourself and pick the one you think would work best for your project.
   
 --- /collapse ---
   
@@ -85,7 +85,7 @@ Leading from the front can be useful to teach concepts and logic or to introduce
 
 --- task ---
 
-Noting the mentoring styles suggested above, **write down** some of the characteristics you think would be useful as a mentor. Beside each note if you have this attribute yourself. 
+Take a look at these examples of useful mentor characteristics, which of them do you think you possess already?
 
 --- collapse ---
   
