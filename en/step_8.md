@@ -1,6 +1,9 @@
 ## Showcasing and reflection
 
-Showcasing projects at the end of a session is a great way to develop young people’s presentation and public speaking skills. 
+A “show and tell”, where young people share what they are working on at the end of a session, is a great way to develop their presentation and public speaking skills. 
+
+There are a variety of ways to do this. Projects can be presented on a screen, young people can gather around a Ninja's laptop or a projecter can be used.
+![Examples of young people showcasing their projects. Image credit to : @yukiko_kikuchi, @SandraMaguire and @arucoderdojo](images/Showcase.png)
 
 --- task ---
 
