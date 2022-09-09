@@ -85,7 +85,7 @@ Leading from the front can be useful to teach concepts and logic or to introduce
 
 --- task ---
 
-Take a look at these examples of useful mentor characteristics, which of them do you think you possess already?
+**Look** at the examples of useful mentor characteristics. Which of them do you possess already?
 
 --- collapse ---
   
