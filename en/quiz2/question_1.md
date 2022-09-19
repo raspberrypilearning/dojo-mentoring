@@ -29,7 +29,7 @@ Dojos are hardware and software agnostic. That means young people and volunteers
 - ( )Resources that they have created themselves.
 
   --- feedback ---
-Some volunteers like creating resources to use in their Dojo session. However there is no onus on volunteers to do this. There lots of freely available resources online, from unplugged activities to hardware emulators to tools to help young people develop coding skills, including on our Projects site.  
+Some volunteers like creating resources to use in their Dojo session. However there is no onus on volunteers to do this. There are lots of freely available resources online, from unplugged activities to hardware emulators to tools to help young people develop coding skills, including on our Projects site.  
 
   --- /feedback ---
 
