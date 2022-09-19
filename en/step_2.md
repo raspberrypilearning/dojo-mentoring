@@ -4,87 +4,16 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
   
 With the support of mentors Ninjas develop a wide-range of skills in a Dojo. Young people learn:
-  
-  
---- collapse ---
 
----
-title: Confidence with technology
----
-
-Young people develop an understanding of technology, in how it works and how they can use it to create games, apps, and websites. This in turn grows their confidence in using it.
-  
---- /collapse ---
-  
---- collapse ---
----
-title: Real world applications
----  
-
-Our project focused approach not only helps them develop their skills and knowledge, but also helps them recognise how these skills are applied in the real world.
-  
---- /collapse ---
-  
-
---- collapse ---
-  
----
-title: Creativity
----  
-Creativity allows for young people's self-fulfilment, personal development and self-expression. Using technology to express themselves creatively offers a novel and relevant way to their experiences.
-  
---- /collapse ---
-
---- collapse ---
-
----
-title: Communication and teamwork
----
-Learning how to talk to others with different skills and experiences, learning how to discuss issues they encounter and find solutions, as well as understanding and managing tasks as part of a team.
-  
---- /collapse ---
-  
---- collapse ---
-
----
-title: Critical thinking
----
-Developing young people’s ability to critically assess what they read and develop the skill set to examine bias, and seek out reputable sources and reference for information is a really important skill.
-  
---- /collapse ---
-
---- collapse ---
-
----
-title: Empathy
----
-
-Designing, developing and iterating on projects taking the user's experience and perspective into account helps young people think about other people’s needs.
-  
---- /collapse ---
-
---- collapse ---
-
----
-title: Resilience
----
-Trial and error are necessary and useful parts of coding and debugging. They encourage young people to persevere and develop their own resilience.
-  
---- /collapse ---
-
---- collapse ---
-
----
-title: Presentation skills
----
-  
-Often young people are encouraged to talk about what they have made at the end of a session. Young people learn how to describe what they have done, present aspects of their project, and answer others questions about their project.
-
-![Examples of young people showcasing their projects. Image credit to : @yukiko_kikuchi, @SandraMaguire and @arucoderdojo](images/Showcase.png)
-  
---- /collapse ---
-
---- collapse ---
++ Confidence with technology
++ Real world applications
++ Creativity
++ Communication and teamwork
++ Critical thinking
++ Empathy
++ Resilience
++ Presentation skills
++ Coding concepts and programming skills
 
 ---
 title: Coding concepts and programming skills
