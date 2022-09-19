@@ -10,7 +10,7 @@ A teenager asks you during a session *“Can I try something a bit harder? I hav
 
 --- choices ---
 
-- (x) Sure we can look for something that builds on this. Is there anything you want to try?
+- (x) "Sure we can look for something that builds on this. Is there anything you want to try?"
 
   --- feedback ---
 When appropriate, encourage Ninjas to stretch themselves by giving them a new target to reach for. Asking for their suggestions also makes sure that it continues to be relevant to their interests.
