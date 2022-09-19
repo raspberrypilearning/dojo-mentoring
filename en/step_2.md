@@ -14,12 +14,6 @@ With the support of mentors Ninjas develop a wide-range of skills in a Dojo. You
 + Resilience
 + Presentation skills
 + Coding concepts and programming skills
-
----
-title: Coding concepts and programming skills
----
-Even in beginner languages like Scratch, Ninjas will learn about coding concepts such as “sequences” where code instructions must run in the order presented and iteration (loops), where a series of instructions are repeated, such as with the “repeat until” block in [Scratch](https://scratch.mit.edu/).
---- /collapse ---
   
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0"> There are a lot of skills volunteers can help young people learn in a Dojo beyond programming. 
