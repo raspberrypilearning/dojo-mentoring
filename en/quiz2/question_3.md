@@ -25,7 +25,7 @@ Dojos are informal, fun and collaborative spaces. Young people chating and getti
 - (x) Announce to the group that the show and tell is starting, and ask those who were chatting to participate as well.
 
   --- feedback ---
-When getting young people's attention announcing that show and tell is starting, note the importance of respecting the presenters by listening. Including one or more of the chatter children, will mean they are given an outlet and it also means they won't be chatting during the presentation.
+When getting young people's attention announcing that show and tell is starting, note the importance of respecting the presenters by listening. Including one or more of the louder children, will mean they are given an outlet and it also means they won't be chatting during the presentation.
 
 
   --- /feedback ---
