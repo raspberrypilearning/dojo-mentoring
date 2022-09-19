@@ -9,8 +9,8 @@
 + [Ice-breaker and unplugged activities](https://coderdojo.com/2022/08/24/icebreakers-and-unplugged-activities-for-your-club/){:target="_blank"}
 + [Our new project paths](https://projects.raspberrypi.org/en/paths){:target="_blank"}
 + [Getting Unstuck - Scratch resource](https://gettingunstuck.gse.harvard.edu/index.html){:target="_blank"}
-+ [MakeCode online coding platform with Micro:bit and Circuit Playground emulators](https://www.microsoft.com/en-us/makecode){:target="_blank"}
-+ [Trinket.io](https://trinket.io/){:target="_blank"}(lets you write and run Python and HTML/CSS code in any browser, on any device.)
++ [MakeCode online coding platform](https://www.microsoft.com/en-us/makecode){:target="_blank"} with Micro:bit and Circuit Playground emulators]
++ [Trinket.io](https://trinket.io/){:target="_blank"} (lets you write and run Python and HTML/CSS code in any browser, on any device.)
 
 ### Useful guides
 + [Facilitator guide to using our paths](https://projects.raspberrypi.org/en/projects/321-make-facilitator-guide){:target="_blank"}
