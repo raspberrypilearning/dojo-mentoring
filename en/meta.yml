@@ -23,7 +23,7 @@ steps:
 - title: Resources for mentors
 - title: Example scenarios
   knowledge_quiz:
-    path: quiz1
+    path: quiz2
     version: 1
     questions: 3
     passing_score: 3

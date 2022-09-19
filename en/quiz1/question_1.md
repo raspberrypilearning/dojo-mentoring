@@ -35,13 +35,13 @@ If a Ninja is getting frustrated it’s important to support them and re-energis
 - (x) This part of the project is challenging. Let’s see if we can work out a solution together. 
 
   --- feedback ---
-If a ninja is struggling it can be good to help them for a bit. It's ok to admit that Avoid where possible taking control of their mouse and keyboard. Make suggestions and point to their screen but try to get them to work through the solution.
+If a ninja is struggling it can be good to help them for a bit. It's ok to admit that coding can be challenging sometimes. Make suggestions and point to their screen but try to get them to work through the solution, rather than providing the answer.
   --- /feedback ---
 
-- (x) Most people struggle when they try something for the first time. If you practice, over time you will get better and better. I know another Ninja had this issue as well, we can ask them how they solved it.
-
+- (x) Most people find it challenging when they try something for the first time. Another Ninja had this issue as well, we can ask them how they solved it.
 
   --- feedback ---
+It's ok to admit that trying something new can be challenging sometimes. Highlight how they are not alone if others have had similar problems, and encourage peer-support by asking the other young person to explain how they resolved it.
 
   --- /feedback ---
 
