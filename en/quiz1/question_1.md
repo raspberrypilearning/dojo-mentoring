@@ -26,10 +26,10 @@ If a Ninja is getting frustrated it’s important to support them and re-energis
 
   --- /feedback ---
 
-- (x) “This part of the project is challenging. Let’s see if we can work out a solution together or ask others who did something similar.”
+- (x) “This part of the project is challenging. Let’s see if we can work out a solution together”
 
   --- feedback ---
-It's ok to admit that trying something new can be challenging sometimes. Highlight how they are not alone if others have had similar problems, and encourage peer-support by asking the other young person to explain how they resolved it.
+If a Ninja is getting frustrated it’s important to support them. It's ok to admit that trying something new can be challenging sometimes. Highlight how they are not alone if others have had similar problems, and encourage peer-support by asking the other young person to explain how they resolved it.
 
   --- /feedback ---
 
