@@ -33,7 +33,7 @@ Some volunteers like creating resources to use in their Dojo session. However th
 
   --- /feedback ---
 
-- ( ) They should only use the step-by-step projects on our [Projects website](https://projects.raspberrypi.org/en).
+- ( ) They should only use the step-by-step projects on our [Projects website](https://projects.raspberrypi.org/en){:target="_blank"}.
 
   --- feedback ---
 There are over 250 free digital making projects available on our website. Some of them have been translated into 30 languages. However, while everyone is free to use these projects, you can also use other resources that suit your needs.
