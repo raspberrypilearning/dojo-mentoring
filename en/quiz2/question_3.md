@@ -18,7 +18,7 @@ This is likely to make the child feel uncomfortable; that what he has done isnâ€
 - ( ) Wrap up the session early, and announce you are finishing early because they were chatting.
 
   --- feedback ---
-Dojos are informal, fun and collaborative spaces. Young people chating and getting excited about what they are doing should be seen as a positive, while also encouraging them to be respectful of others. Instead you should try and encourage those who are louder to get involved in the show and tell.
+Dojos are informal, fun and collaborative spaces. Young people chatting and getting excited about what they are doing should be seen as a positive, while also encouraging them to be respectful of others. Instead you should try and encourage those who are louder to get involved in the show and tell.
 
   --- /feedback ---
 
