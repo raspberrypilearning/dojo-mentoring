@@ -14,35 +14,37 @@ Have fun!
 legend: Question 1 of 3
 ---
 
-Which of these describes HTML and CSS accurately?
+What learning resources should mentors use in a Dojo setting?
 
 --- choices ---
 
-- (x)A text-based markup language and style sheets, which are used to structure, and style web pages.
+- (x)Whatever resources or tools suit the needs of those participating.
 
   --- feedback ---
 
-HTML (Hypertext Markup Language) and CSS (Cascading style sheets) are used to structure and style web pages and their content. They are the building blocks of every webpage on the internet. It can provide a good, visual introduction to web development for those who have some experience typing and the patience for a little problem solving.
+Dojos are hardware and software agnostic. That means young people and volunteers can use whatever resources, tools and programming languages that suit their needs. We recommend using freely available resources.
 
   --- /feedback ---
 
-- ( )A text-based programming language used for task automation, data analysis, and data visualisation.
+- ( )Resources that they have created themselves.
 
   --- feedback ---
-Python is a text-based programming language used for task automation, data analysis, and data visualisation. It is one of the most popular programming languages because of its readability, and similarities to written English. It is suitable for older children who have some typing skills. 
+Some volunteers like creating resources to use in their Dojo session. However there is no onus on volunteers to do this. There lots of freely available resources online, from unplugged activities to hardware emulators to tools to help young people develop coding skills, including on our Projects site.  
+
   --- /feedback ---
 
-- ( ) A block-based drag-a-drop style coding language with a simple visual interface. 
+- ( ) They should only use the step-by-step projects on our [Projects website](https://projects.raspberrypi.org/en).
 
   --- feedback ---
-Scratch is a block-based drag-a-drop style coding language with a simple visual interface. Scratch is particularly great for beginners and younger children as they can see the impact of their code quickly, without worrying about typing or remembering names and syntax.
+There are over 250 free digital making projects available on our website. Some of them have been translated into 30 languages. However, while everyone is free to use these projects, you can also use other resources that suit your needs.
+
   --- /feedback ---
 
-- ( ) A programming language commonly used to make webpages interactive.
+- ( ) Paid-for learning resources and tools.
 
 
   --- feedback ---
-Javascript is a programming language used to make webpages interactive. Young people often learn to code in HTML and CSS to structure and style web pages first, before learning some Javascript, which they can use to make those webpages interactive.
+We recommend you avoid using paid for resources and tools. There are lots of freely available resources online, from unplugged activities to hardware emulators to tools to help young people develop coding skills, including on our Projects site.
 
   --- /feedback ---
 
