@@ -15,7 +15,7 @@ Promotional materials for your Dojo, learning materials and mentoring approaches
 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Equity refers to fair and just practices and policies that ensure all people thrive. Equity is different from equality in that equality implies treating everyone as if their experiences are exactly the same. Being equitable means acknowledging and addressing structural inequalities — historic and current — that advantage some and disadvantage others.</p>
+<span style="color: #0faeb0">Equity refers to fair and just practices and policies that ensure all people thrive. Equality in that equality implies treating everyone as if their experiences are exactly the same. Being equitable means acknowledging and addressing structural inequalities that advantage some and disadvantage others.</p>
   
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">Everyone’s needs and abilities will be different, and this goes for all members of your Dojo — not just those with a disability.</p>
