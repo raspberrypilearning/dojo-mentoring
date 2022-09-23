@@ -26,9 +26,7 @@ Culturally relevant pedagogy promotes the development of learners’ critical co
 
   
 --- task ---
-
 **Review** the [guide about culturally responsive teaching](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/){:target="_blank"}
-
 --- /task ---
 
 ## Accessibility practices for Dojos
@@ -38,10 +36,8 @@ At your Dojo, you will have lots of different participants, including participan
 <span style="color: #0faeb0">Everyone’s needs and abilities will be different, and this goes for all members of your Dojo — not just those with a disability.</p>
   
 
---- task ---
-  
+--- task --- 
 Keep channels of communication open. Actively listen to members of your Dojo, and discuss together how you can best support their participation.
-
 --- /task ---
 
 Learn more about approaches you can support in your Dojo to make it more accessible for participants with disabilities and/or additional needs in our guide. 
@@ -49,10 +45,8 @@ Learn more about approaches you can support in your Dojo to make it more accessi
 And remember, not all disabilities or additional needs are visible.
 
 
---- task ---
-  
+--- task ---  
 **Review** our [Accessibility guide](https://help.coderdojo.com/cdkb/s/article/CoderDojo-Accessibility-GuidesYoeNrUEuBblQa3aFB.8nNukwlSgeR_QH21qLQJw){:target="_blank"}
-
 --- /task ---
 
 --- save ---
