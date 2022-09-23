@@ -15,12 +15,11 @@ Promotional materials for your Dojo, learning materials and mentoring approaches
 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Equity** refers to fair and just practices and policies that ensure all people thrive. Equality differs as it implies treating everyone as if their experiences are exactly the same. While equity acknowledges and addresses inequalities that advantage some and disadvantage others.</p>
+<span style="color: #0faeb0">**Equity** refers to fair and just practices and policies that ensure all people thrive. Equity acknowledges and addresses inequalities that advantage some and disadvantage others.</p>
   
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Everyone’s needs and abilities will be different, and this goes for all members of your Dojo — not just those with a disability.</p>
+
   
-Culturally relevant pedagogy promotes the development of learners’ critical consciousness of the world and encourages them to ask questions about ethics, power, privilege, and social justice. Culturally relevant pedagogy emphasises opportunities to address issues that are important to learners and their communities.
+Culturally relevant pedagogy promotes the development of learners’ critical consciousness of the world and encourages them to ask questions about ethics, power, privilege, and social justice. It emphasises opportunities to address issues that are important to learners and their communities.
 
   
 ### Culturally responsive mentoring practices include:
