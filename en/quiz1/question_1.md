@@ -14,7 +14,7 @@ Have fun!
 legend: Question 1 of 3
 ---
 
-A young girl tells you during a session *“I’m useless at this. I think I will always be bad at logical stuff.”* How do you respond?
+A young girl tells you during a session *“I’m useless at this. I think I will always be bad with computers.”* How do you respond?
 
 --- choices ---
 
