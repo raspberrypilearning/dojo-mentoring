@@ -17,7 +17,10 @@ Promotional materials for your Dojo, learning materials and mentoring approaches
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Equity** refers to fair and just practices and policies that ensure all people thrive. Equity acknowledges and addresses inequalities that advantage some and disadvantage others.</p>
   
+Culturally responsive pedagogy emphasises the importance of including and valuing all learners’ knowledge, ways of learning, vernacular culture and heritage.
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Vernacular culture** is the cultural forms made and organised by ordinary, often indigenous people, as distinct from the high culture of an elite.</p>
   
 Culturally relevant pedagogy promotes the development of learners’ critical consciousness of the world and encourages them to ask questions about ethics, power, privilege, and social justice. It emphasises opportunities to address issues that are important to learners and their communities.
 
