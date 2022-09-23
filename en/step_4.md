@@ -3,7 +3,7 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
   
-Coding can help learners to participate in and shape a rapidly changing world. It's important that learning materials present computing as a career that is open to all and avoid historic stereotypes related to computing. This includes how topics are presented, as well as the language and media assets chosen to introduce them.
+Coding can help learners to participate in and shape a rapidly changing world. It's important that learning materials present computing as a career that is open to all and avoid historic stereotypes related to computing. This includes how topics are presented, as well as the language and media assets chosen to introduce them. Our learning materials are designed to be inclusive. Care should be taken when using other materials.
 
 --- task ---
   
@@ -11,6 +11,9 @@ Promotional materials for your Dojo, learning materials and mentoring approaches
   
 --- /task ---
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">Everyone’s needs and abilities will be different, and this goes for all members of your Dojo — not just those with a disability.</p>
+  
 Culturally relevant pedagogy promotes the development of learners’ critical consciousness of the world and encourages them to ask questions about ethics, power, privilege, and social justice. Culturally relevant pedagogy emphasises opportunities to address issues that are important to learners and their communities.
 
   
