@@ -9,7 +9,7 @@ Our learning materials are designed to be inclusive. Care should be taken when u
 
 --- task ---
   
-Promotional materials for your Dojo, learning materials and mentoring approaches should promote equity and ensure that learners can see themselves represented through computing.
+Promotional materials for your Dojo, learning materials and mentoring approaches should promote *equity* and ensure that learners can see themselves represented through computing.
   
 --- /task ---
 
