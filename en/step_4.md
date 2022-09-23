@@ -5,6 +5,11 @@
   
 Coding can help learners to participate in and shape a rapidly changing world. It's important that learning materials present computing as a career that is open to all and avoid historic stereotypes related to computing. This includes how topics are presented, as well as the language and media assets chosen to introduce them.
 
+--- task ---
+  
+Promotional materials for your Dojo, learning materials and mentoring approaches should promote equity and ensure that learners can see themselves represented through computing.
+  
+--- /task ---
 
 Culturally relevant pedagogy promotes the development of learners’ critical consciousness of the world and encourages them to ask questions about ethics, power, privilege, and social justice. Culturally relevant pedagogy emphasises opportunities to address issues that are important to learners and their communities.
 
