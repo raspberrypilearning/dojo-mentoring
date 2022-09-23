@@ -1,9 +1,4 @@
 ## Culturally responsive mentoring
-
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-  
-<div>
   
 Coding can help learners to participate in and shape a rapidly changing world. It's important that learning materials present computing as a career that is open to all and avoid historic stereotypes related to computing. This includes how topics are presented, as well as the language and media assets chosen to introduce them.
 
@@ -56,7 +51,5 @@ And remember, not all disabilities or additional needs are visible.
 **Review** our [Accessibility guide](https://help.coderdojo.com/cdkb/s/article/CoderDojo-Accessibility-GuidesYoeNrUEuBblQa3aFB.8nNukwlSgeR_QH21qLQJw){:target="_blank"}
 
 --- /task ---
-
-</div>
 
 --- save ---
