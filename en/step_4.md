@@ -6,10 +6,13 @@ Coding can help learners to participate in and shape a rapidly changing world. I
   
 --- task ---
 Promotional materials for your Dojo, learning materials and mentoring approaches should promote equity and ensure that learners can see themselves represented through computing.
---- /task ---
   
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Equity** refers to fair and just practices and policies that ensure all people thrive. Equity is different from equality in that equality implies treating everyone as if their experiences are exactly the same. Being equitable means acknowledging and addressing structural inequalities — historic and current — that advantage some and disadvantage others.</p>
+  
+--- /task ---
+  
+
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Culturally relevant pedagogy** emphasises the importance of including and valuing all learners’ knowledge, ways of learning, vernacular culture and heritage.</p>
