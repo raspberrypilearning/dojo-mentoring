@@ -16,8 +16,6 @@ Coding can help learners to participate in and shape a rapidly changing world. I
 
 Culturally relevant pedagogy promotes the development of learners’ critical consciousness of the world and encourages them to ask questions about ethics, power, privilege, and social justice. Culturally relevant pedagogy emphasises opportunities to address issues that are important to learners and their communities.
 
-</div>
-<div>
   
 ### Culturally responsive mentoring practices include:
 + Drawing on learners’ cultural knowledge and experiences to inform their learning 
@@ -26,9 +24,7 @@ Culturally relevant pedagogy promotes the development of learners’ critical co
 + Using equitable guidance approaches, such as open-ended, inquiry-led activities and discussion-based collaborative tasks.
 + Providing inclusive representations of a range of cultures, and making sure learning materials are accessible
 
-</div>
-</div>
-
+  
 --- task ---
 
 **Review** the [guide about culturally responsive teaching](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/){:target="_blank"}
@@ -40,6 +36,7 @@ At your Dojo, you will have lots of different participants, including participan
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">Everyone’s needs and abilities will be different, and this goes for all members of your Dojo — not just those with a disability.</p>
+  
 
 --- task ---
   
