@@ -22,7 +22,7 @@ Culturally responsive pedagogy emphasises the importance of including and valuin
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Vernacular culture** is the cultural forms made and organised by ordinary, often indigenous people, as distinct from the high culture of an elite.</p>
   
-Culturally relevant pedagogy promotes the development of creators’ critical consciousness of the world and encourages them to ask questions about ethics, power, privilege, and social justice. It emphasises opportunities to address issues that are important to learners and their communities.
+Culturally relevant pedagogy promotes the development of creators’ critical consciousness of the world and encourages them to ask questions about ethics, power, privilege, and social justice. It emphasises opportunities to address issues that are important to Ninja's and their communities.
 
   
 ### Culturally responsive mentoring practices include:
