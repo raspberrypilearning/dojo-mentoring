@@ -5,7 +5,7 @@
 legend: Question 2 of 3
 ---
 
-A teenager asks you during a session *“Can I try something a bit harder? I have got the hang of this now.”* How do you respond?
+An older Ninja asks you during a session *“Can I try something a bit harder? I have got the hang of this now.”* How do you respond?
 
 
 --- choices ---
