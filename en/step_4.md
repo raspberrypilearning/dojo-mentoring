@@ -4,11 +4,14 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Coding can help learners to participate in and shape a rapidly changing world. It's important that learning materials present computing as a career that is open to all and avoid historic stereotypes related to computing. This includes how topics are presented, as well as the language and media assets chosen to introduce them.
   
+  
 --- task ---
+
 Promotional materials for your Dojo, learning materials and mentoring approaches should promote equity and ensure that learners can see themselves represented through computing.
   
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Equity** refers to fair and just practices and policies that ensure all people thrive. Equity is different from equality in that equality implies treating everyone as if their experiences are exactly the same. Being equitable means acknowledging and addressing structural inequalities — historic and current — that advantage some and disadvantage others.</p>
+
   
 --- /task ---
   
