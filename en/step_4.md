@@ -3,9 +3,9 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
   
-Coding can help learners to participate in and shape a rapidly changing world. It's important that learning materials present computing as a career that is open to all and avoid historic stereotypes related to computing. This includes how topics are presented, as well as the language and media assets chosen to introduce them.
-
+<div>
   
+Coding can help learners to participate in and shape a rapidly changing world. It's important that learning materials present computing as a career that is open to all and avoid historic stereotypes related to computing. This includes how topics are presented, as well as the language and media assets chosen to introduce them.
 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
@@ -26,7 +26,9 @@ Culturally relevant pedagogy promotes the development of learners’ critical co
 
   
 --- task ---
+  
 **Review** the [guide about culturally responsive teaching](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/){:target="_blank"}
+  
 --- /task ---
 
 ## Accessibility practices for Dojos
@@ -37,7 +39,9 @@ At your Dojo, you will have lots of different participants, including participan
   
 
 --- task --- 
+  
 Keep channels of communication open. Actively listen to members of your Dojo, and discuss together how you can best support their participation.
+
 --- /task ---
 
 Learn more about approaches you can support in your Dojo to make it more accessible for participants with disabilities and/or additional needs in our guide. 
@@ -46,7 +50,11 @@ And remember, not all disabilities or additional needs are visible.
 
 
 --- task ---  
+
 **Review** our [Accessibility guide](https://help.coderdojo.com/cdkb/s/article/CoderDojo-Accessibility-GuidesYoeNrUEuBblQa3aFB.8nNukwlSgeR_QH21qLQJw){:target="_blank"}
+
 --- /task ---
+
+</div>
 
 --- save ---
