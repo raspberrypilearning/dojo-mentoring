@@ -3,7 +3,9 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
   
-Coding can help learners to participate in and shape a rapidly changing world. It's important that learning materials present computing as a career that is open to all and avoid historic stereotypes related to computing. This includes how topics are presented, as well as the language and media assets chosen to introduce them. Our learning materials are designed to be inclusive. Care should be taken when using other materials.
+Coding can help learners to participate in and shape a rapidly changing world. It's important that learning materials present computing as a career that is open to all and avoid historic stereotypes related to computing. This includes how topics are presented, as well as the language and media assets chosen to introduce them. 
+  
+Our learning materials are designed to be inclusive. Care should be taken when using other materials.
 
 --- task ---
   
