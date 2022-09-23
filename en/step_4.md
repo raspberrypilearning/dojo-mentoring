@@ -9,7 +9,8 @@ Coding can help learners to participate in and shape a rapidly changing world. I
 --- task ---
 
 Promotional materials for your Dojo, learning materials and mentoring approaches should promote equity and ensure that learners can see themselves represented through computing.
-   
+
+
 --- /task ---
   
 
