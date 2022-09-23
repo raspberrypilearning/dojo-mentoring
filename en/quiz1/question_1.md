@@ -42,7 +42,7 @@ If a Ninja is getting frustrated it’s important to support them. While you mig
 - ( ) “Get someone else to do it for you.”
 
   --- feedback ---
-If a ninja is struggling it is good to listen and help them for a bit so they feel supported. It's ok to admit that coding can be challenging sometimes. Make suggestions and point to their screen but try to get them to work through the solution, rather than getting someone else to do it for them.
+If a ninja is struggling it is good to listen and help them for a bit so they feel supported. It's ok to admit that coding can be challenging sometimes. Make suggestions, or try to draw their attention to where the problem might be to help them find the solution, rather than getting someone else to do it for them.
   --- /feedback ---
 
 --- /choices ---
