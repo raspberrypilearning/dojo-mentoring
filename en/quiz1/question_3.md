@@ -36,7 +36,7 @@ Ask questions about their interests to help encourage them to come up with their
 
 
   --- feedback ---
-Avoid encouraging young people to passively play video games in the Dojo. The Dojo is a space for creating. Instead ask the young person questions to draw out what kind of project they could make.
+Avoid encouraging young people to passively play video games in the Dojo. The Dojo is a space for creating. Instead, ask the young person questions to draw out what kind of project they could make.
 
 --- /feedback ---
 
