@@ -1,6 +1,6 @@
 ## Example scenario
 
-I am mentoring at a Dojo and one of the Ninjas has built a maze in Scratch for a boat that moves in a specific direction. When he presses the green flag to make it move, nothing happens. He is trying to show another Ninja his maze when he realises it doesn’t work and asks you to fix it. What do you do?
+You are mentoring at a Dojo and one of the Ninjas has built a maze in Scratch for a boat that moves in a specific direction. When he presses the green flag to make it move, nothing happens. He is trying to show another Ninja his maze when he realises it doesn’t work and asks you to fix it. What do you do?
 
 --- task---
 Think about what you would do in this situation. Write down how you could respond. When you are ready, review the suggested actions below. Do they align with what you would do?
