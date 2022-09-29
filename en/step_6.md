@@ -37,7 +37,7 @@ title: New project features
   
 We’ve also introduced some new features to add interactivity, choice, and authenticity to each project in a path:
 
-+ ### Real-world info box-outs
+### Real-world info box-outs
 Provide interesting and relevant facts about the skills and knowledge being taught.
 
 ### Design decision points
