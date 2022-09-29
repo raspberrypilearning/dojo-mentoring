@@ -2,10 +2,10 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Coding can help learners to participate in and shape a rapidly changing world. However, learning materials can sometimes reflect the historic stereotype that computing is a subject and career for White men. This includes how topics are presented, as well as the language and media assets chosen to introduce them. 
+Coding can help learners to participate in and shape our rapidly changing world. However, learning materials can sometimes reflect the historic stereotype that computing is a subject and career for White men. This includes how topics are presented, as well as the language and media assets chosen to introduce them. 
   
 --- task ---
-Promotional materials for your Dojo, learning materials and mentoring approaches should promote equity and ensure that learners can see themselves represented through computing.
+Promotional materials for your Dojo, learning materials, and mentoring approaches should promote equity and ensure that learners can see themselves represented through computing.
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
@@ -20,7 +20,7 @@ It promotes the development of learners’ critical consciousness of the world a
 + Drawing on learners’ cultural knowledge and experiences to inform their learning 
 + Providing opportunities for learners to choose personally meaningful projects and to express their own cultural identities 
 + Exploring issues of social justice and bias
-+ Using equitable guidance approaches, such as open-ended, inquiry-led activities and discussion-based collaborative tasks.
++ Using equitable guidance approaches, such as open-ended, inquiry-led activities and discussion-based collaborative tasks
 + Providing inclusive representations of a range of cultures, and making sure learning materials are accessible
 
 </div>
@@ -28,7 +28,7 @@ It promotes the development of learners’ critical consciousness of the world a
 
 --- task ---
 
-**Review** the [guide about culturally responsive teaching](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/){:target="_blank"}
+**Review** the [guide about culturally responsive teaching](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/){:target="_blank"}.
 
 --- /task ---
 
@@ -43,13 +43,13 @@ Keep channels of communication open. Actively listen to members of your Dojo, an
 
 --- /task ---
 
-Learn more about approaches you can support in your Dojo to make it more accessible for participants with disabilities and/or additional needs in our guide. 
+Learn more about approaches you can use in your Dojo to make it more accessible for participants with disabilities and/or additional needs in our guide. 
   
 And remember, not all disabilities or additional needs are visible.
 
 
 --- task ---
-**Review** our [Accessibility guide](https://help.coderdojo.com/cdkb/s/article/CoderDojo-Accessibility-GuidesYoeNrUEuBblQa3aFB.8nNukwlSgeR_QH21qLQJw){:target="_blank"}
+**Review** our [accessibility guide](https://help.coderdojo.com/cdkb/s/article/CoderDojo-Accessibility-GuidesYoeNrUEuBblQa3aFB.8nNukwlSgeR_QH21qLQJw){:target="_blank"}.
 
 --- /task ---
 
