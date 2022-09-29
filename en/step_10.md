@@ -1,4 +1,4 @@
-## Example scenarios
+## Example scenario
 
 I am mentoring at a Dojo and one of the Ninjas has built a maze in Scratch for a boat that moves in a specific direction. When he presses the green flag to make it move, nothing happens. He is trying to show another Ninja his maze when he realises it doesn’t work and asks you to fix it. What do you do?
 
