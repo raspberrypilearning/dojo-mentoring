@@ -13,7 +13,7 @@ A young child who is new to the Dojo says *"I can’t think of a project idea."*
 
 
   --- feedback ---
-Avoid giving a Ninja your own ideas. It might not be something they are interested in or relavant to their experiences. Encourage them to think for themselves using prompting questions.
+Avoid giving a Ninja your own ideas. It might not be something they are interested in or relevant to their experiences. Encourage them to think for themselves using prompting questions.
 
   --- /feedback ---
 
