@@ -4,16 +4,17 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Dojos are hardware and software agnostic. That means that young people and volunteers can use whatever resources, tools, and programming languages suit their needs. There are lots of freely available resources online, from unplugged activities to hardware emulators to tools to help young people develop computational thinking.  
   
-## Ice-breakers and unplugged activities
+## Icebreakers and unplugged activities
 Icebreaker activities are designed to welcome and encourage interaction among Ninjas at the start of a Dojo. Offline or unplugged activities take place away from a computer and model key concepts (e.g. selection, variables, algorithms) in different ways. These short games are fantastic ways to help new Ninjas feel relaxed, and can also help young people learn coding concepts and terminology in a fun, informal way.
 
 --- task ---
-Check out some example [ice-breaker and unplugged activities](https://coderdojo.com/2022/08/24/icebreakers-and-unplugged-activities-for-your-club/){:target="_blank"}.
+Check out some example [icebreaker and unplugged activities](https://coderdojo.com/2022/08/24/icebreakers-and-unplugged-activities-for-your-club/){:target="_blank"}.
   
 --- /task ---
   
 </div>
 <div>
+
 ## Our project resources
 One way we support clubs is by offering learners a catalogue of [more than 250 free digital making projects](https://projects.raspberrypi.org/en){:target="_blank"}! Some of them have been translated into 30 languages.
   
