@@ -42,7 +42,7 @@ Scratch is a block-based, drag-and-drop style coding language with a simple visu
 
 
   --- feedback ---
-Javascript is a programming language used to make webpages interactive. Young people often learn to code in HTML and CSS to structure and style webpages first, before learning some Javascript, which they can use to make those webpages interactive.
+JavaScript is a programming language used to make webpages interactive. Young people often learn to code in HTML and CSS to structure and style webpages first, before learning some JavaScript, which they can use to make those webpages interactive.
 
   --- /feedback ---
 
