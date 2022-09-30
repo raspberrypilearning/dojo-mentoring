@@ -11,12 +11,12 @@ This course will primarily focus on training volunteers who mentor young learner
 Once completed, you should:
 + Understand the different roles volunteers have in a Dojo
 + Recognise different mentoring styles used at a Dojo
-+ Learn a little about the most popular coding languages used in Dojos
++ Have learnt a little about the most popular coding languages used in Dojos
 + Know what resources are available to support mentors
 
 ## A Dojo in action
 
-Dojos run in a variety of different spaces and contexts. No two Dojos or even two sessions will look the same. Dojos are collaborative spaces, where chatter between the Ninjas is encouraged. Some clubs find a bit of structure useful for planning their events. 
+Dojos run in a variety of different spaces and contexts. No two Dojos or even two sessions will look the same. Dojos are collaborative spaces, where chat between the Ninjas is encouraged. Some clubs find a bit of structure useful for planning their events. 
 
 Feel free to change it up, and alternate the types of sessions you run based on your volunteers' experiences and participants' interests.
 
