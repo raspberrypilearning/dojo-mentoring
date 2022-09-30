@@ -72,7 +72,7 @@ title: Lead from the front
 ---
 Leading from the front can be useful to teach concepts and logic or to introduce a topic. We advise Dojos to not rely on this approach, or use it too often, so that the Dojo does not resemble a school environment.
   
-![A photo of a mentor pointing at a board with Scratch elements projects onto it in front of children.](images/Mentor-pointing.jpg)
+![A photo of a group of children watching as a mentor points at a whiteboard with Scratch elements projected onto it.](images/Mentor-pointing.jpg)
  
 --- /collapse ---
   
