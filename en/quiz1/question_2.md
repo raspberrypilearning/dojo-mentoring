@@ -13,14 +13,14 @@ A teenager asks you during a session *“Can I try something a bit harder? I hav
 - (x) Sure, we can look for some content that builds on this. Is there anything you really want to try to do?
 
   --- feedback ---
-When appropriate, encourage Ninjas to stretch themselves by giving them a new target to reach for. Asking for their suggestions also makes sure that it continues to be relavant to their interests.
+When appropriate, encourage Ninjas to stretch themselves by giving them a new target to reach for. Asking for their suggestions also makes sure that it continues to be relevant to their interests.
 
   --- /feedback ---
 
 - ( ) No, perhaps you should perfect this first.
 
   --- feedback ---
-When a young person expresses their interest in something harder, it is good to listen and accomodate their learning journey.
+When a young person expresses their interest in something harder, it is good to listen and accommodate their learning journey.
 
   --- /feedback ---
 
