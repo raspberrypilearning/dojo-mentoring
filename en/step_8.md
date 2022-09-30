@@ -4,7 +4,7 @@ Showcasing projects at the end of a session is a great way to develop young peop
 
 --- task ---
 
-Ask Ninjas to showcase their project to show that you recognise the efforts they have gone to and that you believe that they have something of value to share with others. 
+Asking Ninjas to showcase their projects shows that you recognise the effort they have made and that you believe that they have something of value to share with others. 
 
 --- /task ---
 
