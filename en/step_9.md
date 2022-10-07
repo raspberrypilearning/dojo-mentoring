@@ -13,7 +13,7 @@
 + [Trinket.io](https://trinket.io/){:target="_blank"} (lets you write and run Python and HTML/CSS code in any browser, on any device.)
 
 ### Useful guides
-+ [Facilitator guide to using our paths](https://projects.raspberrypi.org/en/projects/321-make-facilitator-guide){:target="_blank"}
++ [Facilitator guide to using our paths](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide/0){:target="_blank"}
 + [Guide about culturally responsive teaching](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/){:target="_blank"}
 + [Accessibility guide](https://help.coderdojo.com/cdkb/s/article/CoderDojo-Accessibility-Guide){:target="_blank"}
 
