@@ -8,9 +8,9 @@ Coding can help young people to participate in and shape a rapidly changing worl
 Our learning materials are designed to be inclusive. Care should be taken when using other materials.
 
 --- task ---
-  
-Promotional materials for your Dojo, learning materials and mentoring approaches should promote *equity* and ensure that young people can see themselves represented through computing.
-  
+
+Promotional materials for your Dojo, learning materials, and mentoring approaches should promote *equity* and ensure that learners can see themselves represented through computing.
+
 --- /task ---
 
 
@@ -29,14 +29,16 @@ Culturally relevant pedagogy promotes the development of creators’ critical co
 + Drawing on young peoples’ cultural knowledge and experiences to inform their learning 
 + Providing opportunities for Ninja's to choose personally meaningful projects and to express their own cultural identities 
 + Exploring issues of social justice and bias
-+ Using equitable guidance approaches, such as open-ended, inquiry-led activities and discussion-based collaborative tasks.
++ Using equitable guidance approaches, such as open-ended, inquiry-led activities and discussion-based collaborative tasks
 + Providing inclusive representations of a range of cultures, and making sure learning materials are accessible
 
   
 --- task ---
-  
-**Review** the [guide about culturally responsive teaching](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/){:target="_blank"}
-  
+
+
+**Review** the [guide about culturally responsive teaching](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/){:target="_blank"}.
+
+
 --- /task ---
 
 ## Accessibility practices for Dojos
@@ -52,14 +54,15 @@ Keep channels of communication open. Actively listen to members of your Dojo, an
 
 --- /task ---
 
-Learn more about approaches you can support in your Dojo to make it more accessible for participants with disabilities and/or additional needs in our guide. 
+Learn more about approaches you can use in your Dojo to make it more accessible for participants with disabilities and/or additional needs in our guide. 
   
 And remember, not all disabilities or additional needs are visible.
 
 
---- task ---  
 
-**Review** our [Accessibility guide](https://help.coderdojo.com/cdkb/s/article/CoderDojo-Accessibility-GuidesYoeNrUEuBblQa3aFB.8nNukwlSgeR_QH21qLQJw){:target="_blank"}
+--- task ---
+**Review** our [accessibility guide](https://help.coderdojo.com/cdkb/s/article/CoderDojo-Accessibility-GuidesYoeNrUEuBblQa3aFB.8nNukwlSgeR_QH21qLQJw){:target="_blank"}.
+
 
 --- /task ---
 

@@ -3,7 +3,7 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
   
-At a Dojo you will see a mix of different styles of mentoring depending on the situation. Being able to use different mentoring styles is important.
+At a Dojo, you will see a mix of different styles of mentoring depending on the situation. Being able to use different mentoring styles is important.
 
 
 --- collapse ---
@@ -11,7 +11,7 @@ At a Dojo you will see a mix of different styles of mentoring depending on the s
 ---
 title: Encouragement
 ---
-Using encouragement and a positive attitude to get children to take pride in learning something they initially found difficult. This positive encouragement approach helps guide young people to new ideas and fresh approaches.
+Use encouragement and a positive attitude to get children to take pride in learning something they initially found difficult. This positive encouragement approach helps guide young people to new ideas and fresh approaches.
   
 For example:
 + Well done on getting this far through the project yourself. Let's look through the last few lines of code you added to see where the issue might be.
@@ -24,10 +24,12 @@ For example:
 ---
 title: Questioning
 ---
-A mentor who has an understanding of the subject can ask leading questions to stimulate the thinking of a Ninja. These questions can lead them to consider new or alternative techniques for solving a problem, as well as verifying their understanding of material
+
+A mentor who has an understanding of the subject can ask thought-out, leading questions to stimulate the thinking of a Ninja. These questions can lead them to consider new or alternative techniques for solving a problem, as well as verifying their understanding of the material.
+
   
 For example:
-+ It looks like you’re doing the same thing a few times here, is there some way of saving yourself writing it out again? *Suggesting the use of loops*
++ It looks like you’re doing the same thing a few times here, is there some way of saving yourself writing it out again? (i.e. suggesting the use of loops)
 + What’s happening in this piece of code?
 
 --- /collapse ---
@@ -38,7 +40,7 @@ For example:
 ---
 title: Supporting self-help
 ---
-We use the motto “Ask 3 then me!” to encourage Ninjas to try a range of self-help strategies if they get stuck before going to a mentor. [See our motto posters](https://help.coderdojo.com/cdkb/s/article/Dojo-Motto-Posters){:target="_blank"}. Ninjas are told to: 
+We use the motto “Ask three, then me!” to encourage Ninjas to try a range of self-help strategies before going to a mentor if they get stuck. [See our motto posters](https://help.coderdojo.com/cdkb/s/article/Dojo-Motto-Posters){:target="_blank"}. Ninjas are told to: 
 1. Ask yourself (test your code and try to find the error)
 2. Ask a search engine
 3. Ask your peers, and only then ask a mentor.
@@ -46,7 +48,7 @@ We use the motto “Ask 3 then me!” to encourage Ninjas to try a range of self
 For example:
 + Look at what the most recent piece of code you added was. Was the code running without any errors before you added that in?
 + If you search on Google "code to add a link in html" you should find what you are looking for.
-+ Did you ask [Name of another Ninja] what they did to get it to work? They are working on a similar project.
++ Did you ask [name of another Ninja] what they did to get it to work? They are working on a similar project.
   
 --- /collapse ---
   
@@ -56,11 +58,11 @@ For example:
 ---
 title: Direct guidance
 ---
-A ‘direct guidance’ style is when Mentors recognise that a Ninja is stuck on a problem and may need more specific feedback. Often this approach is useful for younger Ninjas who cannot find the answer elsewhere, or struggle with typing accurately.
+A ‘direct guidance’ style is when mentors recognise that a Ninja is stuck on a problem and may need more specific feedback. Often this approach is useful for younger Ninjas who cannot find the answer elsewhere, or struggle with typing accurately.
   
 For example:
-+ Here on line 30 I see an error in the code that seems to be causing the issue. What do you think it could be?
-+ You can change the sprite's costume using the purple "Looks" blocks in Scratch. Check through the "Looks" blocks yourself and pick the one you think would work best for your project.
++ Here on line 30, I see an error in the code that seems to be causing the issue. What do you think it could be?
++ You can change the sprite's costume using the purple 'Looks' blocks in Scratch. Check through the 'Looks' blocks yourself and pick the one you think would work best for your project.
   
 --- /collapse ---
   
@@ -70,9 +72,9 @@ For example:
 ---
 title: Lead from the front
 ---
-Leading from the front can be useful to teach concepts and logic or to introduce a topic. We advise Dojos to not rely on this approach often, so that the Dojo does not resemble a school environment.
+Leading from the front can be useful to teach concepts and logic or to introduce a topic. We advise Dojos to not rely on this approach, or use it too often, so that the Dojo does not resemble a school environment.
   
-![A photo of a mentor pointing at a board with Scratch elements projects onto it in front of children](images/Mentor-pointing.jpg)
+![A photo of a group of children watching as a mentor points at a whiteboard with Scratch elements projected onto it.](images/Mentor-pointing.jpg)
  
 --- /collapse ---
   
@@ -101,7 +103,7 @@ title: Example mentor characteristics
 + Adaptable
 + Technically proficient
 + Organised
-+ Like helping others
++ Like to help others
 + Experienced with technology
 + Experienced with young people
 

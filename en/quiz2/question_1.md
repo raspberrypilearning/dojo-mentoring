@@ -1,8 +1,8 @@
 ## Reflection
 
-Well done, you have learned a lot! Now it's time to reflect - reflecting is an important part of learning because it helps make new connections in your brain.
+Well done, you have learnt a lot! Now it's time to reflect — reflecting is an important part of learning because it helps make new connections in your brain.
 
-Answer the three scenario questions below to reflect on what you've learned.
+Answer the three scenario questions below to reflect on what you've learnt.
 
 After each question, press submit. You will be guided towards the correct answer. You can do this activity as many times as you want to.
 
@@ -17,6 +17,7 @@ legend: Question 1 of 3
 What learning resources should mentors use in a Dojo setting?
 
 --- choices ---
+
 
 - (x)Whatever resources or tools suit the needs of those participating.
 
@@ -38,12 +39,14 @@ Some volunteers like creating resources to use in their Dojo session. However th
   --- feedback ---
 There are over 250 free digital making projects available on our website. Some of them have been translated into 30 languages. However, while everyone is free to use these projects, you can also use other resources that suit your needs.
 
+
   --- /feedback ---
 
 - ( ) Paid-for learning resources and tools.
 
 
   --- feedback ---
+
 We recommend you avoid using paid for resources and tools. There are lots of freely available resources online, from unplugged activities to hardware emulators to tools to help young people develop coding skills, including on our Projects site.
 
   --- /feedback ---
