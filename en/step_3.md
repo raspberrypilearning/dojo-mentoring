@@ -15,7 +15,7 @@ Use encouragement and a positive attitude to get children to take pride in learn
   
 For example:
 + Well done on getting this far through the project yourself. Let's look through the last few lines of code you added to see where the issue might be.
-+ You did something similar in your project last week. Can you remember the blocks you used? Then we can add on from there.
++ Well done on completing this project. It would be great if you can share it with the group at the end of the session, so they can see and learn from the work you did.
 
 --- /collapse ---
   
@@ -24,7 +24,9 @@ For example:
 ---
 title: Questioning
 ---
+
 A mentor who has an understanding of the subject can ask thought-out, leading questions to stimulate the thinking of a Ninja. These questions can lead them to consider new or alternative techniques for solving a problem, as well as verifying their understanding of the material.
+
   
 For example:
 + It looks like you’re doing the same thing a few times here, is there some way of saving yourself writing it out again? (i.e. suggesting the use of loops)
@@ -85,7 +87,7 @@ Leading from the front can be useful to teach concepts and logic or to introduce
 
 --- task ---
 
-Take a look at these examples of useful mentor characteristics, which of them do you think you possess already?
+**Look** at the examples of useful mentor characteristics. Which of them do you possess already?
 
 --- collapse ---
   

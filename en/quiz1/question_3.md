@@ -9,7 +9,7 @@ A young child who is new to the Dojo says *"I can’t think of a project idea."*
 
 --- choices ---
 
-- ( ) I'll give you an idea!
+- ( ) "I'll give you an idea!"
 
 
   --- feedback ---
@@ -17,22 +17,22 @@ Avoid giving a Ninja your own ideas. It might not be something they are interest
 
   --- /feedback ---
 
-- ( ) Lets do a quick brainstorm with a pen and paper and see what we come up with.
+- ( ) "You're a boy so you must like football. Make a football themed project"
 
 
   --- feedback ---
-It’s important to encourage Ninja's own ideas, but you may need to act as a catalyst to help draw those ideas out.
+Avoid making assumptions about what a young person is interested in based on their gender, appearance or other traits. It’s important to encourage Ninja's own ideas. You may need to act as a catalyst to help draw those ideas out. You can suggest broad topics like "Food" or "Activities" and let them brainstorm topics related to things they are interested in.
 
   --- /feedback ---
 
-- (x) What topics are you interested in, and what kind of things would you like to make? We can look through our projects website and see what you could make.
+- (x) "What kind of things would you like to make? We can look through our Project's website and see what you might like to create."
 
 
   --- feedback ---
 Ask questions about their interests to help encourage them to come up with their own ideas. Looking at our project examples can help them decide the kind of project they'd like to make.
   --- /feedback ---
 
-- ( ) Play a video game until you've thought of something to make.
+- ( ) "Play a video game until you've thought of something to make."
 
 
   --- feedback ---

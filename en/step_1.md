@@ -37,10 +37,11 @@ People have told us they volunteer with CoderDojo for a variety of reasons. Thes
 
 --- task ---
 
-**Watch** the video. **Write down** why you are interested in volunteering at a Dojo.
+**Watch** the video.
 
 <iframe width="600" height="337" src="https://www.youtube.com/embed/Q6M0IdEn07E" title="Why volunteers help at their local CoderDojo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+ **Write down** why you are interested in volunteering at a Dojo.
 
 --- /task ---
 ## Roles within a Dojo

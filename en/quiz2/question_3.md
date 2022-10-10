@@ -18,14 +18,18 @@ This is likely to make the child feel uncomfortable; that what he has done isnâ€
 - ( ) Wrap up the session early, and announce you are finishing early because they were chatting.
 
   --- feedback ---
+
 Dojos are informal, fun, and collaborative spaces. Young people chatting and getting excited about what they are doing should be seen as a positive, while also encouraging them to be respectful of others. Instead, you should try and encourage those who are louder to get involved in the show and tell.
+
 
   --- /feedback ---
 
 - (x) Announce to the group that the show and tell is starting, and ask those who were chatting to participate as well.
 
   --- feedback ---
+
 When getting young people's attention by announcing that show and tell is starting, note the importance of respecting the presenters by listening. Including one or more of the chatting children will mean they are given an outlet and it also means they won't be chatting during the presentation.
+
 
 
   --- /feedback ---
