@@ -31,6 +31,8 @@ A mentor who has an understanding of the subject can ask thought-out, leading qu
 For example:
 + It looks like you’re doing the same thing a few times here, is there some way of saving yourself writing it out again? (i.e. suggesting the use of loops)
 + What’s happening in this piece of code?
+  
+![Mentor asking a child a question](images/Mentor_asking_question.png)
 
 --- /collapse ---
 
