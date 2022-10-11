@@ -38,7 +38,7 @@ Each path is made up of six projects, of three different types, in a 3-2-1 struc
 + In the final **one Invent project**, learners focus on completing a project to meet a project brief for a particular audience. The project brief is written so that they can meet it using the skills they’ve learnt by following the path up to this point. 
   
 
-![An image showing how the six projects in a path are made up of three explore projects, two design projects, and one invent project.](Project-types.png)
+![An image showing how the six projects in a path are made up of three explore projects, two design projects, and one invent project.](images/Project-types.png)
 
 --- /collapse ---
 
