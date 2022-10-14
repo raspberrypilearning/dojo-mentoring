@@ -11,10 +11,12 @@ An older Ninja asks you during a session *“Can I try something a bit harder? I
 --- choices ---
 
 
-- (x) Sure, we can look for some content that builds on this. Is there anything you really want to try to do?
+- (x) "Sure, we can look for some content that builds on this. Is there anything you really want to try to do?"
 
   --- feedback ---
 When appropriate, encourage Ninjas to stretch themselves by giving them a new target to reach for. Asking for their suggestions also makes sure that it continues to be relevant to their interests.
+
+In addition, you could encourage them to share what they've learned with the wider group. This helps confirm they understand the concepts and it develops the Ninja's presentation skills. It also helps the wider group learn more collaboratively.
 
 
   --- /feedback ---
@@ -35,7 +37,7 @@ Take the young person's interests and skill level into account when moving on to
   --- /feedback ---
 
 
-- (x) That's great, there are a few different things you could add on to this to challenge yourself. Would you also like to share what you've learnt so far with other Ninjas at the end of the session?
+- ( ) "That's great. Don’t tell others in the group as they need to learn it on their own."
 
 
   --- feedback ---
