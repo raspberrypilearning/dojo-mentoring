@@ -25,13 +25,6 @@ Avoid making assumptions about what a young person is interested in based on the
 
   --- /feedback ---
 
-- (x) "What kind of things would you like to make? We can look through our Project's website and see what you might like to create."
-
-
-  --- feedback ---
-Ask questions about their interests to help encourage them to come up with their own ideas. Looking at our project examples can help them decide the kind of project they'd like to make.
-  --- /feedback ---
-
 - ( ) "Play a video game until you've thought of something to make."
 
 
@@ -39,6 +32,14 @@ Ask questions about their interests to help encourage them to come up with their
 Avoid encouraging young people to passively play video games in the Dojo. The Dojo is a space for creating. Instead, ask the young person questions to draw out what kind of project they could make.
 
 --- /feedback ---
+
+- (x) "What kind of things would you like to make? We can look through our Project's website and see what you might like to create."
+
+
+  --- feedback ---
+Ask questions about their interests to help encourage them to come up with their own ideas. Looking at our project examples can help them decide the kind of project they'd like to make.
+  --- /feedback ---
+
 
 --- /choices ---
 
