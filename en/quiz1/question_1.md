@@ -20,7 +20,7 @@ A young girl tells you during a session *“I’m useless at this. I think I wil
 --- choices ---
 
 
-- ( ) Yes, you are making a lot of mistakes. I can take over and fix it.
+- ( ) "Yes, you are making a lot of mistakes. I can take over and fix it."
 
 
   --- feedback ---
@@ -30,14 +30,15 @@ If a Ninja is getting frustrated, it’s important to support them and re-energi
   --- /feedback ---
 
 
-- ( ) You can just give up if you don’t understand and try something different.
+- ( ) "You can just give up if you don’t understand and try something different."
 
   --- feedback ---
 If a Ninja is getting frustrated, it’s important to support them and re-energise them. While you might think that encouraging them to try something different is helpful, it teaches them that they should give up anytime something is challenging and that coding isn't suitable for them. 
 
   --- /feedback ---
 
-- ( )”You can just give up if you don’t understand and try something totally different.”
+- (x) "This part of the project is challenging. Let’s see if we can work out a solution together or ask a Ninja who has done something similar."
+
 
   --- feedback ---
   
@@ -46,7 +47,7 @@ If a Ninja is struggling, it can be good to help them for a bit. It's okay to ad
 
   --- /feedback ---
 
-- ( ) “Get someone else to do it for you.”
+- ( ) "Get someone else to do it for you.”
 
   --- feedback ---
 
