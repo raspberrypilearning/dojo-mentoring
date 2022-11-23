@@ -22,11 +22,11 @@ steps:
 - title: Showcasing and reflection
 - title: Resources for mentors
 - title: More reflection scenarios
-   knowledge_quiz:
-     path: quiz2
-     version: 1
-     questions: 3
-     passing_score: 3
-   completion:
-     - external
+  knowledge_quiz:
+    path: quiz2
+    version: 1
+    questions: 3
+    passing_score: 3
+  completion:
+    - external
 - title: What next?
