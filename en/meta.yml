@@ -4,7 +4,7 @@ hero_image: images/Coderdojo_Safeguarding_Module_Social_Email_Images_V1_Email.pn
 description: Learn about the different roles in a CoderDojo club, mentoring styles and approaches as well as the resources available to support mentors.
 version: 4
 listed: false
-copyedit: false
+copyedit: true
 last_tested: '2021-03-26'
 steps:
 - title: Introduction
