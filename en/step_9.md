@@ -18,6 +18,5 @@
 + [Accessibility guide](https://help.coderdojo.com/cdkb/s/article/CoderDojo-Accessibility-Guide){:target="_blank"}
 
 ### Raspberry Pi Foundation training
-+ [Scratch to Python: Moving from Block- to Text-based Programming](https://www.futurelearn.com/courses/block-to-text-based-programming){:target="_blank"}
 + [Full list of Future Learn courses](https://www.futurelearn.com/partners/raspberry-pi){:target="_blank"}
 
