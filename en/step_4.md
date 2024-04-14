@@ -61,7 +61,7 @@ And remember, not all disabilities or additional needs are visible.
 
 
 --- task ---
-**Review** our [accessibility guide](https://help.coderdojo.com/cdkb/s/article/CoderDojo-Accessibility-GuidesYoeNrUEuBblQa3aFB.8nNukwlSgeR_QH21qLQJw){:target="_blank"}.
+**Review** our [accessibility guide](https://help.coderdojo.com/cdkb/s/article/CoderDojo-Accessibility-Guide){:target="_blank"}.
 
 
 --- /task ---
